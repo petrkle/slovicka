@@ -5,7 +5,7 @@ able:schopný
 about:o
 above:výše
 abroad:do zahraničí
-absence:absence
+absence:nepřítomnost
 absent:chybí
 absolute:absolutní
 absolutely:absolutně
@@ -1045,7 +1045,6 @@ dump:skládka
 during:během
 dust:prach
 duty:povinnost
-dvd:dvd
 dying:umírající
 each:každý
 each other:navzájem
