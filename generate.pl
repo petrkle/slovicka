@@ -43,7 +43,7 @@ for my $pismeno (sort keys %slovicka) {
 #p $slovicka{$pismeno};
 	$t->process('pismeno.html',
 		{ 
-			'title' => $pismeno,
+			'title' => 'Anglická slovíčka - '. uc $pismeno,
 			'slovicka' => $slovicka{$pismeno},
 		},
 		"$OUT/$pismeno.html",
@@ -52,13 +52,13 @@ for my $pismeno (sort keys %slovicka) {
 
 $t->process('index.html',
 	{ 
-		'title' => 'Slovíčka',
+		'title' => 'Základní anglická slovíčka',
 		'abeceda' => \%abeceda,
 	},
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-foreach my $dir (('css', 'img', 'font', 'js')){
+foreach my $dir (('css', 'img', 'js')){
 	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");

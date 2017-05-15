@@ -1,6 +1,8 @@
 [% INCLUDE header.html %]
-<div class="obsah">
-[% FOREACH slovicko IN slovicka %]<div class="slovicko" data-translation="[% slovicko.value %]">[% slovicko.key %]</div>[% END %]
+<div class="flex-container">
+[% FOREACH slovicko IN slovicka %]
+<div class="flex-cell-slovicko"><div class="flex-item-slovicko" data-translation="[% slovicko.value %]">[% slovicko.key %]</div></div>
+[% END %]
 </div>
 <script src="slovicka.js"></script>
 [% INCLUDE footer.html -%]

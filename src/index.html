@@ -1,5 +1,9 @@
 [% INCLUDE header.html %]
-<div class="obsah">
-	[% FOREACH pismeno IN abeceda %]<a href="[% pismeno.key %].html"><div class="pismeno"><span class="velke">[% pismeno.key %]</span></div></a>[% END %]
+<div class="flex-container">
+	[% FOREACH pismeno IN abeceda %]
+	<div class="flex-cell">
+		<a href="[% pismeno.key %].html" class="flex-item">[% pismeno.key %]</a>
+	</div>
+	[% END %]
 </div>
 [% INCLUDE footer.html -%]

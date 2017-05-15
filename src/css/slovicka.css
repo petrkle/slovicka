@@ -1,6 +1,10 @@
-@font-face{font-family:"robotoregular";src:url("roboto-regular.ttf") format("opentype");}
-body{font-family:"robotoregular",sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
-.obsah{text-align:center;margin:0 auto 0 auto;}
-.pismeno{display:inline-block;width:200px;height:200px;border:solid 1px #fff;margin:0;padding:0;background:#eee;color:#000;}
-.pismeno .velke{font-size:3em;line-height:200px;text-transform:uppercase;}
-.slovicko{display:inline-block;width:400px;height:200px;border:solid 1px #fff;margin:0;padding:0;background:#eee;color:#000;line-height:200px;font-size:2em;}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1.2em;line-height:1.7em;color:#000;background:#BBDEFB;margin:0 auto 0 auto;padding:0;}
+.flex-container{display:flex;justify-content:start;flex-wrap:wrap;border-top: 1px solid #fff;border-left: 1px solid #fff;}
+.flex-cell{flex:0 0 25%;display:flex;justify-content:center;align-items: stretch;padding:0;margin:0;box-sizing:border-box;}
+.flex-cell-slovicko{flex:0 0 33%;display:flex;justify-content:center;align-items: stretch;padding:0;margin:0;box-sizing:border-box;}
+.flex-cell:before{content:'';display:table;padding-top:100%;}
+.flex-cell-slovicko:before{content:'';display:table;padding-top:100%;}
+.flex-item{flex-grow:1;border-bottom:1px solid #fff;border-right:1px solid #fff;background:#BBDEFB;color:#fff;display:flex;justify-content:center;align-items:center;font-size:4em;color:#000;text-decoration:none;text-transform:uppercase;}
+.flex-item-slovicko{flex-grow:1;border-bottom:1px solid #fff;border-right:1px solid #fff;background:#BBDEFB;color:#fff;display:flex;justify-content:center;align-items:center;font-size:2em;color:#000;text-decoration:none;text-transform:capitalize;}
+h1{color:#fff;background:#2196F3;margin:0;padding:1em;font-weight:normal;}
+.nadpis{text-decoration:none;}
