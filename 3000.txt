@@ -6,7 +6,7 @@ about:o
 above:výše
 abroad:do zahraničí
 absence:nepřítomnost
-absent:chybí
+absent:chybět
 absolute:absolutní
 absolutely:absolutně
 absorb:absorbovat
@@ -23,7 +23,7 @@ accommodation:ubytování
 accompany:doprovázet
 according to:podle
 account:účet
-account for:účet pro
+account for:vysvětlit
 accurate:přesný
 accurately:přesně
 accuse:obvinit
@@ -45,9 +45,9 @@ actually:vlastně
 ad:inzerát
 adapt:přizpůsobit
 add:přidat
-addition:přidání
-additional:další
-add on:doplněk
+addition:dotatek
+additional:dodatečný
+add on:přidat
 address:adresa
 add up:přidat
 add up to:přidat k
@@ -72,7 +72,7 @@ advise:radit, podat zprávu
 affair:záležitost
 affect:postihnout
 affection:náklonnost
-afford:si dovolit
+afford:dovolit si
 afraid:strach
 after:po
 afternoon:odpoledne
@@ -82,7 +82,7 @@ against:proti
 age:stáří
 aged:letitý
 agency:agentura
-agent:činidlo
+agent:zástupce
 aggressive:agresivní
 ago:před
 agree:souhlasit
@@ -129,7 +129,7 @@ ambition:ctižádost
 ambulance:záchranná služba
 among:mezi
 amount:množství
-amount to:částka
+amount to:rovnat se čemu
 amuse:bavit
 amused:pobavený
 amusing:zábavný
@@ -155,9 +155,9 @@ answer:odpovědět
 anti-:proti-
 anticipate:předvídat
 anxiety:úzkost
-anxious:úzkost
+anxious:úzkostlivý
 anxiously:úzkostlivě
-any:žádný
+any:nějaký
 anybody:někdo
 anyone:kdokoliv
 anything:cokoliv
@@ -169,12 +169,12 @@ apartment:byt
 apologize:omlouvat se
 apparent:zdánlivý
 apparently:podle všeho
-appeal:odvolání
+appeal:žádost
 appear:jevit
 appearance:vzhled
 apple:jablko
-application:aplikace
-apply:platí
+application:přihláška
+apply:přihlásit se
 appoint:jmenovat
 appointment:jmenování
 appreciate:cenit si
@@ -200,7 +200,7 @@ arrangement:uspořádání
 arrest:zatknout
 arrival:příchod
 arrive:přijet
-arrive at:dorazí na
+arrive at:dorazit v
 arrow:šipka
 art:umění
 article:článek
@@ -219,7 +219,7 @@ aspect:aspekt
 assist:pomoci
 assistance:pomoc
 assistant:asistent
-associate:spolupracovník
+associate:vybavit si
 associated:spojené
 association:sdružení
 assume:převzít
@@ -228,9 +228,9 @@ at:na
 atmosphere:atmosféra
 attach:připojit
 attached:připojený
-attack:záchvat
+attack:útok
 attempt:pokus
-attempted:pokusil
+attempted:pokusil se
 attend:zúčastnit se
 attend to:účastnit se
 attention:pozor
@@ -243,7 +243,7 @@ audience:publikum
 august:srpen
 aunt:teta
 author:autor
-authority:pravomocí
+authority:pravomoc
 automatic:automatický
 automatically:automaticky
 autumn:podzim
@@ -267,7 +267,7 @@ backwards:dozadu
 bacteria:bakterie
 bad:špatný
 badly:špatně
-bad-tempered:špatně temperováno
+bad-tempered:mrzutý
 bag:taška
 baggage:zavazadla
 bake:upéct
@@ -278,7 +278,7 @@ band:kapela
 bandage:obvaz
 bank:banka
 bar:bar
-bargain:smlouvat
+bargain:výhodná koupě
 barrier:bariéra
 base:báze
 based:na základě
@@ -339,14 +339,14 @@ bicycle:jízdní kolo
 bid:nabídka
 big:velký
 bike:kolo
-bill:účtovat
+bill:účet
 billion:miliarda
 bin:zásobník
 biology:biologie
 bird:pták
 birth:narození
 birthday:narozeniny
-biscuit:suchar
+biscuit:sušenka
 bit:kousek
 bite:kousat
 bitter:hořké
@@ -367,10 +367,10 @@ board:deska
 boat:loď
 body:tělo
 boil:vařit
-bomb:bombardovat
+bomb:bomba
 bone:kost
 book:rezervovat
-boot:boot
+boot:bota
 border:okraj
 bore:otvor
 bored:znuděný
@@ -416,7 +416,7 @@ brightly:zářivě
 brilliant:brilantní
 bring:přinést
 bring back:přinést zpět
-bring down:přines dolů
+bring down:srazit
 bring forward:předložit
 bring out:vyvést
 bring up:vychovat
@@ -437,7 +437,7 @@ bunch:chomáč
 burn:hořet
 burn down:shořet
 burnt:spálený
-burst:burst
+burst:výbuch
 burst into:vtrhnout do
 burst out:vyprsknout
 bury:pohřbít
@@ -531,27 +531,27 @@ challenge:výzva
 chamber:komora
 chance:šance
 change:změna
-change round:změnit kolo
+change round:otočit
 channel:kanál
 chapter:kapitola
 character:charakter
 characteristic:charakteristický
 charge:nabít
 charity:charitativní
-chart:schéma
+chart:graf
 chase:honit
 chase away:odehnat
 chat:povídat si
 cheap:levný
 cheaply:levně
 cheat:ošidit
-cheat of:cheat of
+cheat of:ošidit o
 check:kontrola
-check in:check in
-check into:zkontrolovat
+check in:ubytovat se
+check into:zapsat se do
 check on:zkontrolovat
-check out:překontrolovat
-check over:zkontrolovat
+checkout:pokladna
+check over:překontrolovat
 check up on:zkontrolovat
 cheek:tvář
 cheerful:veselý
@@ -571,7 +571,7 @@ chip:čip
 chocolate:čokoláda
 choice:výběr
 choose:vybrat
-chop:kotleta
+chop:sekat
 chop down:pokácet
 chop off:odseknout
 church:kostel
@@ -589,15 +589,15 @@ classic:klasický
 classroom:třída
 clean:čistý
 clean up:uklidit
-clear:průhledná
+clear:jasný
 clearly:jasně
 clear out:vyklidit
 clear up:vyčistit
 clerk:úředník
 clever:chytrý
-click:klikněte na tlačítko
+click:kliknout
 client:klient
-climate:klimatu
+climate:podnebí
 climb:stoupání
 climbing:horolezectví
 clock:hodiny
@@ -605,8 +605,8 @@ close:zavřít
 closed:zavřeno
 closely:úzce
 closet:skříň
-cloth:tkanina
-clothes:oblečení
+cloth:látka
+clothes:šaty
 clothing:oblečení
 cloud:mrak
 club:klub
@@ -628,7 +628,7 @@ colour:barva
 coloured:barevný
 column:sloupec
 combination:kombinace
-combine:kombajn
+combine:kombinovat
 come:přijít
 come across:narazit
 come down:přijít dolů
@@ -638,7 +638,7 @@ come in:pojď dovnitř
 come off:vypadni
 come on:pojď dál
 come out:vyjít
-come round:pojď
+come round:stavit se
 come to:přijď k
 come up:přijít
 come up to:přijít k
@@ -671,7 +671,7 @@ complex:komplex
 complicate:komplikovat
 complicated:složitý
 computer:počítač
-concentrate:soustřeď se
+concentrate:soustředit se
 concentrate on:soustředit se na
 concentration:koncentrace
 concept:pojem
@@ -681,7 +681,7 @@ concerning:pokud jde o
 concert:koncert
 conclude:uzavřít
 conclusion:závěr
-concrete:beton
+concrete:konkrétní
 condition:stav
 conduct:chování
 conference:konference
@@ -744,7 +744,7 @@ convert:konvertovat
 convince:přesvědčit
 cook:kuchař
 cooker:vařič
-cookie:cookie
+cookie:sušenka
 cooking:vaření
 cool:chladný
 cool down:ochladit
@@ -777,7 +777,7 @@ covered:pokryté
 covering:krytina
 cover up:zakrýt
 cow:kráva
-crack:crack
+crack:trihlina
 cracked:popraskané
 craft:řemeslo
 crash:pád
@@ -810,7 +810,7 @@ cultural:kulturní
 culture:kultura
 cup:pohár
 cupboard:skříň
-curb:obrubník
+curb:omezit
 cure:lék
 curious:zvědavý
 curiously:zvědavě
@@ -824,9 +824,9 @@ curve:křivka
 curved:zakřivený
 custom:zvyk
 customer:zákazník
-customs:celní
+customs:celnice
 cut:střih
-cut back:řezání zpět
+cut back:omezit
 cut down:uříznout
 cut off:odříznout
 cut out:vystřihnout
