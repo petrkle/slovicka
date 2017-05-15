@@ -1676,7 +1676,7 @@ hurry:pospěš si
 hurry up:pospěš si
 hurt:zranit
 husband:manžel
-i:i
+i:já
 ice:led
 ice cream:zmrzlina
 idea:idea
@@ -1685,7 +1685,7 @@ identify:identifikovat
 identify with:identifikovat se s
 identity:identita
 i.e.:tj.
-if:-li
+if:když
 ignore:ignorovat
 ill:nemocný
 illegal:ilegální

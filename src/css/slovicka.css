@@ -1,0 +1,5 @@
+@font-face{font-family:"robotoregular";src:url("roboto-regular.ttf") format("opentype");}
+body{font-family:"robotoregular",sans-serif;font-size:1.2em;line-height:1.7em;color:#000;background:#fff;margin:0;padding:0;}
+.obsah{text-align:center;margin:0 auto 0 auto;}
+.pismeno{display:inline-block;width:200px;height:200px;border:solid 1px #fff;margin:0;padding:0;background:#eee;color:#000;}
+.pismeno .velke{font-size:3em;line-height:200px;text-transform:uppercase;}
