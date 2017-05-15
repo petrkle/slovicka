@@ -550,7 +550,7 @@ check:kontrola
 check in:ubytovat se
 check into:zapsat se do
 check on:zkontrolovat
-checkout:pokladna
+check out:odhlásit se
 check over:překontrolovat
 check up on:zkontrolovat
 cheek:tvář
