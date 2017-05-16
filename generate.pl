@@ -39,11 +39,13 @@ my $t = Template->new({
 
 use Data::Printer;
 
+my $appname = 'Anglická slovíčka';
+
 for my $pismeno (sort keys %slovicka) {
 #p $slovicka{$pismeno};
 	$t->process('pismeno.html',
 		{ 
-			'title' => 'Anglická slovíčka - '. uc $pismeno,
+			'title' => $appname . ' - '. uc $pismeno,
 			'slovicka' => $slovicka{$pismeno},
 		},
 		"$OUT/$pismeno.html",
@@ -52,7 +54,7 @@ for my $pismeno (sort keys %slovicka) {
 
 $t->process('index.html',
 	{ 
-		'title' => 'Základní anglická slovíčka',
+		'title' => $appname,
 		'abeceda' => \%abeceda,
 	},
 	"$OUT/index.html",
