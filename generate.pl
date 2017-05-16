@@ -22,6 +22,7 @@ my %slovicka;
 
 my $md5 = dir_md5_base64($IN);
 my $cachebuster = crc32(join('', sort values %{$md5}));
+my $cacheversion = scalar time;
 
 foreach my $line (@content){
 	my ($en, $cz) = split /:/, $line;
@@ -41,6 +42,7 @@ my $t = Template->new({
 		VARIABLES => {
 		 version => 1,
 		 cachebuster => $cachebuster,
+		 cacheversion => $cacheversion,
    },
 });
 
@@ -64,7 +66,14 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-my @files = ('slovicka.css', 'browserconfig.xml', 'manifest.json', 'slovicka.js');
+my @files = (
+	'slovicka.css',
+	'browserconfig.xml',
+	'manifest.json',
+	'slovicka.js',
+	'sw.js',
+	'app.js',
+);
 
 for my $file (@files){
 	$t->process($file ,{},
