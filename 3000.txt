@@ -833,7 +833,7 @@ cut out:vystřihnout
 cut up:rozřezat
 cycle:cyklus
 cycling:cyklistika
-dad:táto
+dad:táta
 daily:denně
 damage:poškození
 damp:vlhký
@@ -842,14 +842,14 @@ dancer:tanečník
 dancing:tanec
 danger:nebezpečí
 dangerous:nebezpečný
-dare:dare
+dare:odvážit se
 dark:temný
 data:data
 date:datum
-date back:datum návratu
+date back:datovat se
 daughter:dcera
 day:den
-dead:mrtví
+dead:mrtvý
 deaf:hluchý
 deal:obchod
 deal in:zabývat se
@@ -861,7 +861,7 @@ debt:dluh
 decade:desetiletí
 decay:rozklad
 december:prosinec
-decide:rozhodni se
+decide:rozhodnout se
 decide on:rozhodnout o
 decision:rozhodnutí
 declare:prohlásit
@@ -884,7 +884,7 @@ delay:zpoždění
 deliberate:záměrný
 deliberately:záměrně
 delicate:jemné
-delight:rozkoš
+delight:potěšení
 delighted:potěšen
 deliver:dodat
 delivery:dodávka
@@ -897,7 +897,7 @@ departure:odchod
 depend:záviset
 depend on:záleží na
 deposit:vklad
-depress:stlačte
+depress:stlačit
 depressed:deprimovaný
 depressing:depresivní
 depth:hloubka
@@ -949,7 +949,7 @@ directly:přímo
 director:ředitel
 dirt:špína
 dirty:špinavý
-disabled:zakázáno
+disabled:invalidní
 disadvantage:nevýhoda
 disagree:nesouhlasit
 disagreement:nesouhlas
@@ -957,7 +957,7 @@ disagree with doing:nesouhlasí s tím
 disappear:zmizet
 disappoint:zklamat
 disappointed:zklamaný
-disappointing:zklamání
+disappointing:neuspokojující
 disappointment:zklamání
 disapproval:nesouhlas
 disapprove:neschválit
@@ -971,7 +971,7 @@ discovery:objev
 discuss:diskutovat
 discussion:diskuse
 disease:choroba
-disgust:hnus
+disgust:znechucení
 disgusted:znechucený
 disgusting:nechutný
 dish:jídlo
@@ -1004,12 +1004,12 @@ door:dveře
 dot:tečka
 double:dvojnásobek
 doubt:pochybovat
-do up:dělat nahoru
+do up:opravit
 do with:dělat s
 do without:obejít se bez
 down:dolů
 downstairs:přízemí
-downward:dolů
+downward:klesající
 downwards:dolů
 dozen:tucet
 draft:návrh
@@ -1023,13 +1023,13 @@ drawing:výkres
 dream:sen
 dress:šaty
 dressed:oblečený
-dress up:obleč se
+dress up:obléci se
 drink:napít se
 drive:řídit
 drive away:odjet
 drive off:odjet
 driver:řidič
-driving:jízdy
+driving:řízení
 drop:pokles
 drop out:vypadnout
 drug:lék
@@ -1058,7 +1058,7 @@ east:východní
 eastern:východní
 easy:snadný
 eat:jíst
-eat out:najíst se
+eat out:najíst se v restauraci
 eat up:sníst
 economic:hospodářský
 economy:ekonomika
@@ -1098,12 +1098,12 @@ eleven:jedenáct
 eleventh:jedenáctý
 else:jiný
 elsewhere:někde jinde
-email:e-mailem
-embarrass:rozpaky
+email:elektronická pošta
+embarrass:uvést do rozpaků
 embarrassed:v rozpacích
 embarrassing:trapný
 embarrassment:rozpaky
-emerge:vynořit
+emerge:objevit se
 emergency:nouzový
 emotion:emoce
 emotional:emocionální
@@ -1122,7 +1122,7 @@ encourage:podporovat
 encouragement:povzbuzení
 end:konec
 end in:konec v
-ending:konec
+ending:zakončení
 end up:skončit
 enemy:nepřítel
 energy:energie
@@ -1138,9 +1138,9 @@ enormous:obrovský
 enough:dost
 enquiry:poptávka
 ensure:zajistit
-enter:zadejte
+enter:vstoupit
 entertain:bavit
-entertainer:konferenciér
+entertainer:bavič
 entertaining:zábavný
 entertainment:zábava
 enthusiasm:nadšení
@@ -1148,7 +1148,7 @@ enthusiastic:nadšený
 enthusiastically:nadšeně
 entire:celý
 entirely:zcela
-entitle:opravit
+entitle:opravňovat
 entrance:vstup
 entry:vstup
 envelope:obálka
@@ -1173,7 +1173,7 @@ even:dokonce
 evening:večer
 event:událost
 eventually:nakonec
-ever:vůbec
+ever:vůbec (někdy)
 every:každý
 everybody:všichni
 everyone:každý
