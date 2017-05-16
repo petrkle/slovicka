@@ -1237,7 +1237,7 @@ extreme:extrémní
 extremely:velmi
 eye:oko
 face:tvář
-face up to:lícem nahoru
+face up to:postavit se čelem
 facility:zařízení
 fact:skutečnost
 factor:faktor
@@ -1251,14 +1251,14 @@ fairly:spravedlivě
 faith:víra
 faithful:věřící
 faithfully:věrně
-fall:podzim
+fall:padat
 false:nepravdivé
 fame:sláva
 familiar:známý
 family:rodina
 famous:slavný
 fan:fanoušek
-fancy:ozdobný
+fancy:módní
 far:daleko
 farm:hospodařit
 farmer:zemědělec
@@ -1277,7 +1277,7 @@ favour:laskavost
 favourite:oblíbený
 fear:strach
 feather:pírko
-feature:vlastnosti
+feature:vlastnost
 february:únor
 federal:federální
 fee:poplatek
@@ -1296,7 +1296,7 @@ fifteen:patnáct
 fifteenth:patnáctý
 fifth:pátý
 fiftieth:padesátý
-fifty:padesáti
+fifty:padesát
 fight:boj
 fighting:bojování
 figure:postava
@@ -1333,11 +1333,11 @@ fixed:pevný
 flag:vlajka
 flame:plamen
 flash:blikat
-flat:ploché
+flat:plochý
 flavour:příchuť
 flesh:maso
 flight:let
-float:plovák
+float:plout
 flood:zaplavit
 flooded:zaplaven
 flooding:záplavy
@@ -1397,20 +1397,20 @@ friend:přítel
 friendly:přátelský
 friendship:přátelství
 frighten:vystrašit
-frighten away/off:strach vypnout / vypnout
+frighten away:vystrašit
 frightened:vystrašený
 frightening:děsivý
 from:z
 front:přední
 frozen:zamrzlý
 fruit:ovoce
-fry:potěr
+fry:usmažit
 fuel:palivo
 full:plný
 fully:plně
 fun:zábava
 function:funkce
-function as:funkce jako
+function as:sloužit jako
 fund:fond
 fundamental:základní
 funeral:pohřeb
