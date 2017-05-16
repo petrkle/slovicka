@@ -9,13 +9,20 @@ use Template;
 use File::Slurper 'read_lines';
 use File::Basename;
 use File::Copy;
+use File::Find::Rule;
+use Digest::MD5::File qw(dir_md5_base64);
+use Digest::CRC qw(crc64 crc32 crc16 crcccitt crc crc8);
 
-my $OUT = "www";
+my $OUT = 'www';
+my $IN = 'src';
 
 my @content = read_lines('3000.txt');
 
 my %abeceda;
 my %slovicka;
+
+my $md5 = dir_md5_base64($IN);
+my $cachebuster = crc32(join('', sort values %{$md5}));
 
 foreach my $line (@content){
 	my ($en, $cz) = split /:/, $line;
@@ -30,19 +37,17 @@ foreach my $line (@content){
 }
 
 my $t = Template->new({
-		INCLUDE_PATH => 'src',
+		INCLUDE_PATH => $IN,
 		ENCODING => 'utf8',
 		VARIABLES => {
-		 version => 1
+		 version => 1,
+		 cachebuster => $cachebuster,
    },
 });
-
-use Data::Printer;
 
 my $appname = 'Anglická slovíčka';
 
 for my $pismeno (sort keys %slovicka) {
-#p $slovicka{$pismeno};
 	$t->process('pismeno.html',
 		{ 
 			'title' => $appname . ' - '. uc $pismeno,
@@ -60,9 +65,17 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-foreach my $dir (('css', 'img', 'js', 'etc')){
+my @files = ('slovicka.css', 'browserconfig.xml', 'manifest.json', 'slovicka.js');
+
+for my $file (@files){
+	$t->process($file ,{},
+		"$OUT/$cachebuster-$file",
+		{ binmode => ':utf8' }) or die $t->error;
+}
+
+foreach my $dir ('img', 'js'){
 	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
-		copy("$path$name", "$OUT/$name");
+		copy("$path$name", "$OUT/$cachebuster-$name");
 	}
 }
