@@ -13,7 +13,7 @@ absorb:absorbovat
 abuse:zneužívání
 academic:akademický
 accent:přízvuk
-accept:akceptovat
+accept:přijmout
 acceptable:přijatelný
 access:přístup
 accident:nehoda
