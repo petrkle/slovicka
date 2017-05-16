@@ -7,6 +7,7 @@ self.addEventListener("install", function(event) {
       .open(version + 'fundamentals')
       .then(function(cache) {
         return cache.addAll([
+          '/slovicka/',
           '/slovicka/a.html',
           '/slovicka/b.html'
         ]);
