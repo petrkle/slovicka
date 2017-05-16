@@ -60,7 +60,7 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
-foreach my $dir (('css', 'img', 'js')){
+foreach my $dir (('css', 'img', 'js', 'etc')){
 	foreach my $file (glob("src/$dir/*")){
 		my ($name,$path) = fileparse($file);
 		copy("$path$name", "$OUT/$name");
