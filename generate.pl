@@ -9,9 +9,8 @@ use Template;
 use File::Slurper 'read_lines';
 use File::Basename;
 use File::Copy;
-use File::Find::Rule;
 use Digest::MD5::File qw(dir_md5_base64);
-use Digest::CRC qw(crc64 crc32 crc16 crcccitt crc crc8);
+use Digest::CRC qw(crc32);
 
 my $OUT = 'www';
 my $IN = 'src';
@@ -73,9 +72,7 @@ for my $file (@files){
 		{ binmode => ':utf8' }) or die $t->error;
 }
 
-foreach my $dir ('img', 'js'){
-	foreach my $file (glob("src/$dir/*")){
-		my ($name,$path) = fileparse($file);
-		copy("$path$name", "$OUT/$cachebuster-$name");
-	}
+foreach my $file (glob("src/img/*")){
+	my ($name,$path) = fileparse($file);
+	copy("$path$name", "$OUT/$cachebuster-$name");
 }
