@@ -121,7 +121,7 @@ Alternatively:Alternativně
 Although:Ačkoli
 Altogether:Celkem
 Always:Vždy
-A.m.:Dopoledne
+AM:Dopoledne
 Amaze:Ohromit
 Amazed:Ohromen
 Amazing:Úžasný
