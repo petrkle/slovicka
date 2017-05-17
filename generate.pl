@@ -32,7 +32,7 @@ my $cacheversion = scalar time;
 
 foreach my $line (@content){
 	my ($en, $cz) = split /:/, $line;
-	my $fl = $en;
+	my $fl = lc($en);
 	$fl =~ s/^(.).*/$1/;
 	if($abeceda{$fl}){
 		$abeceda{$fl}++;
