@@ -3714,7 +3714,7 @@ Wear away:Opotřebení
 Wear off:Zanikat
 Wear out:Opotřebovat
 Weather:Počasí
-Web:Web
+Web:Pavučina
 Website:Webová stránka
 Wedding:Svatba
 Wednesday:Středa
@@ -3728,7 +3728,7 @@ Well:Dobře
 Well known:Dobře známý
 West:Západ
 Western:Západní
-Wet:Mokré
+Wet:Mokrý
 What:Co
 Whatever:To je jedno
 Wheel:Kolo
