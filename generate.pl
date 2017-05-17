@@ -106,4 +106,3 @@ foreach my $file (glob("src/img/*")){
 	my ($name,$path) = fileparse($file);
 	copy("$path$name", "$OUT/$cachebuster-$name");
 }
-
