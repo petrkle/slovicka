@@ -12,15 +12,24 @@ use File::Copy;
 use Digest::MD5::File qw(dir_md5_base64);
 use Digest::CRC qw(crc32);
 use Cwd;
+use Getopt::Long;
 
 my @dir = split(/\//, getcwd);
 my $dir = pop(@dir);
 
-my $OUT = 'www';
 my $IN = 'src';
 my $appname = 'Anglická slovíčka';
 my $appshortname = 'Slovíčka';
 my $appdesc = 'Základní anglická slovíčka';
+
+my $domain = undef;
+my $OUT = undef;
+
+GetOptions (
+	  "domain=s" => \$domain,
+	  "out=s" => \$OUT,
+)
+ or die("Error in command line arguments\n");
 
 my @content = read_lines('3000.txt');
 
@@ -54,7 +63,7 @@ my $t = Template->new({
 		 appshortname => $appshortname,
 		 appdesc => $appdesc,
 		 dir => $dir,
-		 domain => 'https://kle.cz',
+		 domain => $domain,
    },
 });
 
