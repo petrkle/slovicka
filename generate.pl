@@ -20,6 +20,7 @@ my $OUT = 'www';
 my $IN = 'src';
 my $appname = 'Anglická slovíčka';
 my $appshortname = 'Slovíčka';
+my $appdesc = 'Základní anglická slovíčka';
 
 my @content = read_lines('3000.txt');
 
@@ -51,6 +52,7 @@ my $t = Template->new({
 		 cacheversion => $cacheversion,
 		 appname => $appname,
 		 appshortname => $appshortname,
+		 appdesc => $appdesc,
 		 dir => $dir,
 		 domain => 'https://kle.cz',
    },
