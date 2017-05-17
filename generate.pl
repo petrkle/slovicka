@@ -7,10 +7,14 @@ use utf8;
 use open ':std', ':encoding(UTF-8)';
 use Template;
 use File::Slurper 'read_lines';
-use File::Basename;
+use File::Basename qw(dirname fileparse);
 use File::Copy;
 use Digest::MD5::File qw(dir_md5_base64);
 use Digest::CRC qw(crc32);
+use Cwd;
+
+my @dir = split(/\//, getcwd);
+my $dir = pop(@dir);
 
 my $OUT = 'www';
 my $IN = 'src';
@@ -43,6 +47,7 @@ my $t = Template->new({
 		 version => 1,
 		 cachebuster => $cachebuster,
 		 cacheversion => $cacheversion,
+		 dir => $dir,
    },
 });
 
@@ -76,7 +81,10 @@ my @files = (
 );
 
 for my $file (@files){
-	$t->process($file ,{},
+	$t->process($file ,{
+		'title' => $appname,
+		'abeceda' => \%abeceda,
+	},
 		"$OUT/$cachebuster-$file",
 		{ binmode => ':utf8' }) or die $t->error;
 }

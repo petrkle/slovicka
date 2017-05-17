@@ -7,9 +7,13 @@ self.addEventListener("install", function(event) {
       .open(version + 'fundamentals')
       .then(function(cache) {
         return cache.addAll([
-          '/slovicka/',
-          '/slovicka/a.html',
-          '/slovicka/b.html'
+          '/[% dir %]/',
+[%- FOREACH pismeno IN abeceda %]
+          '/[% dir %]/[% pismeno.key %].html',
+[%- END %]
+          '/[% dir %]/[% cachebuster %]-slovicka.css',
+          '/[% dir %]/[% cachebuster %]-slovicka.js',
+          '/[% dir %]/[% cachebuster %]-icon.svg'
         ]);
       })
       .then(function() {

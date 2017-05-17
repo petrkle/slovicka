@@ -1,5 +1,5 @@
 {
-    "name": "Slovíčka",
+    "name": "[% title %]",
     "icons": [
         {
             "src": "[% cachebuster %]-android-chrome-192x192.png",
