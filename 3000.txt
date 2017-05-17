@@ -1422,7 +1422,7 @@ Future:Budoucnost
 Gain:Získat
 Gallon:Galon
 Gamble:Hazardovat
-Gambling:Hazardních her
+Gambling:Hazardní hry
 Game:Hra
 Gap:Mezera
 Garage:Garáž
@@ -1446,43 +1446,42 @@ Genuine:Originální
 Genuinely:Skutečně
 Geography:Zeměpis
 Get:Dostat
-Get away:Dostat pryč
-Get away with:Dostat se pryč
+Get away:Dostat se pryč
+Get away with:Vyváznout
 Get back:Vrátit se
-Get by:Projít
+Get by:Vystačit
 Get in:Nastoupit
 Get into:Dostat se do
 Get off:Vystoupit
-Get on:Nastoupit
-Get on with:Pokračujte
+Get on:Pokračova
+Get on with:Rozumět si s někým
 Get out of:Dostat se z
-Get over:Přejít
-Get round:Obcházet
-Get round to:Dostanete kolo
-Get through:Dostat se skrz
+Get over:Překonat
+Get round:Vyhnout se něčemu
+Get through:Projít
 Get up:Vstávej
 Giant:Obří
 Gift:Dar
 Girl:Dívka
 Girlfriend:Přítelkyně
 Give:Dát
-Give away:Rozdávat
+Give away:Rozdat
 Give back:Vrátit
 Give in:Dát dovnitř
 Give off:Vydávat
 Give out:Rozdávat
 Give up:Vzdát se
 Glad:Rád
-Glass:Sklenka
+Glass:Sklenice
 Global:Globální
 Glove:Rukavice
 Glue:Lepidlo
 Go:Jít
-Go ahead:Pokračuj
+Go ahead:Pokračovat
 Goal:Fotbalová branka
 Go away:Odejít
 Go back:Vrátit se zpět
-Go back to:Jít zpět k
+Go back to:Mít původ
 Go by:Jít kolem
 God:Bůh
 Go down:Klesat
@@ -1491,37 +1490,37 @@ Gold:Zlato
 Good:Dobrý
 Goodbye:Ahoj
 Goods:Zboží
-Go off:Vyjít
-Go on:Pokračuj
-Go on doing:Pokračujte
+Go off:Spustit
+Go on:Pokračovat
+Go on doing:Pokračovat
 Go out:Jít ven
 Go out with:Jít ven s
 Go over:Přejít
 Go round:Objíždět
-Go through:Projít
-Go through with:Projít
+Go through:Prožít (si)
+Go through with:Provést (co)
 Go to:Jít do
-Go up:Jít nahoru
+Go up:Stoupat
 Govern:Řídit
 Government:Vláda
 Governor:Guvernér
-Go with:Jít s
-Go without:Jít bez
-Grab:Urvat
+Go with:Patřit k
+Go without:Obejít se
+Grab:Popadnout
 Grade:Školní známka
 Gradual:Postupný
 Gradually:Postupně
 Grain:Obilí
 Gram:Gram
 Grammar:Gramatika
-Grand:Grand
+Grand:Ohromný
 Grandchild:Vnouče
 Granddaughter:Vnučka
 Grandfather:Dědeček
 Grandmother:Babička
 Grandparent:Prarodič
 Grandson:Vnuk
-Grant:Grant
+Grant:Dotace
 Grass:Tráva
 Grateful:Vděčný
 Grave:Hrob
@@ -1531,14 +1530,14 @@ Greatly:Velmi
 Green:Zelená
 Grey:Šedá
 Grocery:Potraviny
-Ground:Přízemní
+Ground:Podlaha
 Group:Skupina
 Grow:Růst
 Growth:Růst
 Grow up:Vyrůst
 Guarantee:Záruka
 Guard:Hlídat
-Guess:Tipni si
+Guess:Hádat
 Guest:Host
 Guide:Průvodce
 Guilty:Vinný
@@ -1845,13 +1844,13 @@ Justified:Oprávněné
 Justify:Ospravedlnit
 Keen:Zájem
 Keep:Držet
-Keep out:Držte se ven
-Keep out of:Vyhýbejte se
+Keep out:Zákaz vstupu
+Keep out of:Vyhýbat se
 Keep up:Držet krok
 Keep up with:Držet tempo s
 Key:Klíč
 Keyboard:Klávesnice
-Kick:Kop
+Kick:Kopnout
 Kid:Dítě
 Kill:Zabít
 Killing:Zabíjení
@@ -1866,7 +1865,7 @@ Kitchen:Kuchyně
 Knee:Koleno
 Knife:Nůž
 Knit:Plést
-Knitted:Pletené
+Knitted:Pletený
 Knitting:Pletení
 Knock:Klepání
 Knock down:Srazit
