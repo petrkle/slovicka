@@ -277,7 +277,6 @@ Ban:Zákaz
 Band:Kapela
 Bandage:Obvaz
 Bank:Banka
-Bar:Bar
 Bargain:Výhodná koupě
 Barrier:Bariéra
 Base:Báze
