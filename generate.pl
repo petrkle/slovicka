@@ -49,9 +49,10 @@ my $t = Template->new({
 		 version => 1,
 		 cachebuster => $cachebuster,
 		 cacheversion => $cacheversion,
-		'appname' => $appname,
-		'appshortname' => $appshortname,
+		 appname => $appname,
+		 appshortname => $appshortname,
 		 dir => $dir,
+		 domain => 'https://kle.cz',
    },
 });
 
