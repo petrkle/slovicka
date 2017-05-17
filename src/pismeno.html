@@ -1,7 +1,7 @@
 [% INCLUDE header.html %]
 <div class="flex-container">
 [% FOREACH slovicko IN slovicka %]
-<div class="flex-cell-slovicko"><div class="flex-item-slovicko" data-translation="[% slovicko.value %]">[% slovicko.key %]</div></div>
+<div class="fcs"><div class="fis" data-translation="[% slovicko.value %]">[% slovicko.key %]</div></div>
 [% END %]
 </div>
 <script src="[% cachebuster %]-slovicka.js"></script>
