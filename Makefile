@@ -1,3 +1,5 @@
+OUT=www
+
 help:
 	@echo "help     - this help"
 	@echo "web      - generate web"
@@ -6,6 +8,7 @@ help:
 
 
 web:
+	rm -rf $(OUT)
 	./generate.pl
 
 upload:
@@ -14,7 +17,7 @@ upload:
 	 	--stats \
 		--human-readable \
 		--delete-after \
-		www/ vps.kle.cz:/home/www/kle.cz/slovicka/
+		$(OUT)/ vps.kle.cz:/home/www/kle.cz/slovicka/
 
 clean:
-	rm -rf www
+	rm -rf $(OUT)
