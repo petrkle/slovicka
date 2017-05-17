@@ -18,6 +18,8 @@ my $dir = pop(@dir);
 
 my $OUT = 'www';
 my $IN = 'src';
+my $appname = 'Anglická slovíčka';
+my $appshortname = 'Slovíčka';
 
 my @content = read_lines('3000.txt');
 
@@ -47,11 +49,11 @@ my $t = Template->new({
 		 version => 1,
 		 cachebuster => $cachebuster,
 		 cacheversion => $cacheversion,
+		'appname' => $appname,
+		'appshortname' => $appshortname,
 		 dir => $dir,
    },
 });
-
-my $appname = 'Anglická slovíčka';
 
 for my $pismeno (sort keys %slovicka) {
 	$t->process('pismeno.html',
@@ -82,7 +84,6 @@ my @files = (
 
 for my $file (@files){
 	$t->process($file ,{
-		'title' => $appname,
 		'abeceda' => \%abeceda,
 	},
 		"$OUT/$cachebuster-$file",

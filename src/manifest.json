@@ -1,6 +1,13 @@
 {
-    "name": "[% title %]",
+    "name": "[% appname %]",
+    "short_name": "[% appshortname %]",
+    "start_url": "/[% dir %]/",
     "icons": [
+        {
+            "src": "[% cachebuster %]-mstile-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
         {
             "src": "[% cachebuster %]-android-chrome-192x192.png",
             "sizes": "192x192",
