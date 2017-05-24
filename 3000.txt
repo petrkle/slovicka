@@ -1549,23 +1549,23 @@ Half:Polovina
 Hall:Hala
 Hammer:Kladivo
 Hand:Ruka
-Hand back:Vrať
-Hand down:Ruce dolů
+Hand back:Vrátit
+Hand down:Předat
 Hand in:Odevzdat
-Handle:Rukojeť
+Handle:Zvládnout
 Hand out:Rozdávat
 Hand over:Předat
-Hand round:Rozdat
+Hand round:Dát kolovat
 Hang:Pověsit
-Hang about:Pověsit
-Hang about with:Pověsit si s
-Hang around:Zavěsit
-Hang around with:Pověsit se
-Hang on:Vydrž
-Hang on to:Zavěsit na
+Hang about:Poflakovat se
+Hang about with:Poflakovat se s někým
+Hang around:Postávat
+Hang around with:Trávit čas s
+Hang on:Počkat
+Hang on to:Ponechat si
 Hang up:Zavěsit
 Happen:Přihodit se
-Happen to:Stát se
+Happen to:Stát se (někomu)
 Happily:Šťastně
 Happiness:Štěstí
 Happy:Šťastný
@@ -1575,11 +1575,11 @@ Harm:Poškodit
 Harmful:Škodlivý
 Harmless:Neškodný
 Hat:Čepice
-Hate:Nenávist
+Hate:Nenávidět
 Hatred:Nenávist
 Have:Mít
-Have back:Mít zpět
-Have on:Mít na
+Have back:Udobřit se
+Have on:Mít na sobě
 Have to:Muset
 He:On
 Head:Hlava
@@ -1610,7 +1610,7 @@ Her:Její
 Here:Zde
 Hero:Hrdina
 Hers:Její
-Herself:Sebe
+Herself:Ona sama
 Hesitate:Váhat
 Hi:Ahoj
 Hide:Skrýt
@@ -1619,15 +1619,15 @@ Highlight:Zvýraznit
 Highly:Vysoce
 Highway:Dálnice
 Hill:Kopec
-Him:Mu
-Himself:Sám
-Hip:Hip
-Hire:Pronájem
+Him:Jemu
+Himself:On sám
+Hip:Bok
+Hire:Najmout si
 Hire out:Pronajmout
 His:Jeho
 Historical:Historický
 History:Dějiny
-Hit:Udeřil
+Hit:Udeřit
 Hobby:Hobby
 Hold:Držet
 Hold back:Zadržet
@@ -1639,7 +1639,7 @@ Hole:Otvor
 Holiday:Dovolená
 Hollow:Dutý
 Holy:Svatý
-Home:Domů
+Home:Domov
 Homework:Domácí práce
 Honest:Upřímný
 Honestly:Upřímně řečeno
@@ -1665,19 +1665,19 @@ Human:Člověk
 Humorous:Vtipný
 Humour:Humor
 Hundred:Sto
-Hundredth:Setina
+Hundredth:Stý
 Hungry:Hladový
 Hunt:Lov
 Hunting:Lov
-Hurry:Pospěš si
-Hurry up:Pospěš si
+Hurry:Spěchat
+Hurry up:Pospíšit si
 Hurt:Zranit
 Husband:Manžel
 I:Já
 Ice:Led
 Ice cream:Zmrzlina
 Idea:Idea
-Ideal:Ideál
+Ideal:Ideální
 Identify:Identifikovat
 Identify with:Identifikovat se s
 Identity:Identita
@@ -1692,18 +1692,18 @@ Illustrate:Ilustrovat
 Image:Obraz
 Imaginary:Imaginární
 Imagination:Fantazie
-Imagine:Představ si
+Imagine:Představit si
 Immediate:Bezprostřední
 Immediately:Ihned
 Immoral:Nemorální
 Impact:Dopad
 Impatient:Netrpělivý
-Implication:Implikace
-Imply:Imply
-Import:Import
+Implication:Důsledek
+Imply:Naznačovat
+Import:Dovoz
 Importance:Důležitost
 Important:Důležité
-Importantly:Důležité
+Importantly:Důležitě
 Impose:Vnucovat
 Impossible:Nemožné
 Impress:Zapůsobit
@@ -1717,7 +1717,7 @@ Inability:Neschopnost
 Inch:Palec
 Incident:Incident
 Include:Zahrnout
-Including:Počítaje v to
+Including:Včetně
 Income:Příjem
 Increase:Zvýšit
 Increasingly:Stále více
@@ -1726,8 +1726,8 @@ Independence:Nezávislost
 Independent:Nezávislý
 Independently:Nezávisle
 Index:Index
-Indicate:Uveďte
-Indication:Indikace
+Indicate:Naznačovat
+Indication:Náznak
 Indirect:Nepřímý
 Indirectly:Nepřímo
 Individual:Individuální
@@ -1750,7 +1750,7 @@ Initial:Počáteční
 Initially:Zpočátku
 Initiative:Iniciativa
 Injure:Zranit
-Injured:Zraněno
+Injured:Zraněný
 Injury:Zranění
 Ink:Inkoust
 Inner:Vnitřní
@@ -1761,8 +1761,8 @@ Inside:Uvnitř
 Insist:Trvat
 Insist on:Trvat na
 Insist on doing:Trvat na tom
-Install:Nainstalujte
-Instance:Instance
+Install:Nainstalovat
+Instance:Případ
 Instead:Místo toho
 Instead of:Namísto
 Institute:Ústav
@@ -1778,7 +1778,7 @@ Intend:Zamýšlet
 Intended:Zamýšlený
 Intention:Záměr
 Interest:Zájem
-Interested:Zájem
+Interested:Zaujatý
 Interesting:Zajímavý
 Interior:Interiér
 Internal:Vnitřní
@@ -1802,18 +1802,18 @@ Investment:Investice
 Invitation:Pozvání
 Invite:Pozvat
 Involve:Zapojit
-Involved:Zapojeno
+Involved:Zapojený
 Involvement:Účast
 Iron:Železo
 Irritate:Dráždit
 Irritated:Podrážděná
-Irritating:Dráždivý
+Irritating:Rozčilující
 Island:Ostrov
 Issue:Problém
 It:To
 Item:Položka
-Its:To je
-Itself:Sám
+Its:Svůj
+Itself:Samo
 Jacket:Bunda
 Jam:Džem
 January:Leden
