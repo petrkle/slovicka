@@ -55,7 +55,7 @@ self.addEventListener("fetch", function(event) {
         }
         function unableToResolve () {
           console.log('WORKER: fetch request failed in both cache and network.');
-          return new Response('<h1>Service Unavailable</h1>', {
+          return new Response('<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><title>Anglická slovíčka</title><meta name="viewport" content="width=device-width"><meta name="theme-color" content="#2196F3"></head><body><style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:1.2em;line-height:1.7em;color:#000;background:#BBDEFB;margin:0 auto 0 auto;padding:0;}h1{color:#fff;background:#2196F3;background-size:2em 2em;margin:0;padding:0.5em;font-weight:normal;font-size:1em;}</style><h1>Chyba připojení</h1></body></html>', {
             status: 503,
             statusText: 'Service Unavailable',
             headers: new Headers({
