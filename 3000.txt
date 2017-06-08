@@ -1877,13 +1877,13 @@ Label:Označení
 Laboratory:Laboratoř
 Labour:Práce
 Lack:Nedostatek
-Lacking:Chybí
+Lacking:Postrádající
 Lady:Dáma
 Lake:Jezero
 Lamp:Svítilna
-Land:Přistát
+Land:Země
 Landscape:Krajina
-Lane:Pruh
+Lane:Cesta
 Language:Jazyk
 Large:Velký
 Largely:Převážně
@@ -1891,7 +1891,7 @@ Last:Poslední
 Late:Pozdě
 Later:Později
 Latest:Nejnovější
-Latter:Druhé
+Latter:Pozdější
 Laugh:Smát se
 Laugh at:Vysmívat se
 Launch:Zahájení
@@ -1909,10 +1909,10 @@ Lean:Opírat se
 Learn:Učit se
 Least:Nejméně
 Leather:Kůže
-Leave:Zanechat, opustit
+Leave:Opustit
 Leave out:Vynechat
 Lecture:Přednáška
-Left:Vlevo, odjet
+Left:Vlevo
 Leg:Noha
 Legal:Právní
 Legally:Legálně
@@ -1927,11 +1927,10 @@ Let off:Propustit
 Letter:Dopis
 Level:Úroveň
 Library:Knihovna
-Licence:Licence
-License:Licence
+License:Povolení
 Lid:Víčko
-Lie:Lež
-Lie around:Ležet kolem
+Lie:Ležet
+Lie around:Povalovat se
 Lie down:Lehnout
 Life:Život
 Lift:Výtah
@@ -1951,13 +1950,13 @@ Listen:Poslouchat
 Literature:Literatura
 Litre:Litr
 Little:Málo
-Live:Živý
+Live:Žít
 Lively:Živý
 Live on:Žít dál
 Live through:Přežít
 Live together:Žít společně
 Living:Živobytí
-Load:Zatížení
+Load:Náklad
 Loan:Půjčka
 Local:Místní
 Locally:Lokálně
@@ -1970,17 +1969,16 @@ Logic:Logika
 Logical:Logický
 Lonely:Osamělý
 Long:Dlouho
-Look:Dívej se
+Look:Dívat se
 Look after:Starat se o
 Look at:Podívat se na
-Look down on:Koukni dolů na
+Look down on:Povyšovat se na
 Look forward to:Těšit se
-Look into:Podívej se
-Look on:Dívat se na
+Look into:Prozkoumat
 Look on with:Podívej se dál
 Look out:Pozor
-Look out for:Pozor na
-Look round:Rozhlédni se
+Look out for:Dát si pozor na
+Look round:Rozhlédnout se
 Look through:Prohlédnout si
 Look up:Vyhledat
 Look up to:Vzhlížet k
@@ -2002,7 +2000,7 @@ Loyal:Loajální
 Luck:Štěstí
 Lucky:Šťastný
 Luggage:Zavazadla
-Lump:Kus
+Lump:Hrouda
 Lunch:Oběd
 Lung:Plíce
 Machine:Stroj
@@ -2017,9 +2015,8 @@ Maintain:Udržovat
 Major:Hlavní, důležitý
 Majority:Většina
 Make:Udělat
-Make into:Udělat do
-Make up:Makeup
-Make-up:Makeup
+Make into:Přetvořit
+Make up:Vymyslet (si)
 Make up for:Vynahradit
 Male:Mužský
 Mall:Nákupní centrum
@@ -2028,7 +2025,7 @@ Manage:Spravovat
 Management:Řízení
 Manager:Manažer
 Manner:Způsob
-Manufacture:Výrobu
+Manufacture:Výrobit
 Manufacturer:Výrobce
 Manufacturing:Výrobní
 Many:Mnoho
@@ -2045,14 +2042,14 @@ Massive:Masivní
 Master:Mistr
 Match:Zápas
 Matching:Vhodný
-Match up:Zápas nahoru
-Mate:Mate
+Match up:Hodit se k
+Mate:Kamarát
 Material:Materiál
 Mathematics:Matematika
-Matter:Hmota
+Matter:Záležitost
 Maximum:Maximum
 May:Smět
-Maybe:Může být
+Maybe:Možná
 Mayor:Starosta
 Me:Mě
 Meal:Jídlo
@@ -2086,11 +2083,11 @@ Message:Zpráva
 Metal:Kov
 Method:Metoda
 Metre:Metr
-Mid-:Střední-
-Midday:Polední
+Mid:Střední
+Midday:Poledne
 Middle:Střední
 Midnight:Půlnoc
-Might:Mohl
+Might:Mohl by
 Mild:Mírné
 Mile:Míle
 Military:Válečný
@@ -2098,7 +2095,7 @@ Milk:Mléko
 Milligram:Miligram
 Millimetre:Milimetr
 Million:Milión
-Millionth:Milión
+Millionth:Milióntý
 Mind:Mysl
 Mine:Těžit
 Mineral:Minerální
@@ -2113,9 +2110,9 @@ Miss:Slečna, minout
 Missing:Chybějící
 Miss out:Vynechat
 Mistake:Chyba
-Mistake for:Chyba pro
+Mistake for:Splést si
 Mistaken:Splést se
-Mix:Směs
+Mix:Smíchat
 Mixed:Smíšený
 Mixture:Směs
 Mix up:Pomíchat
@@ -2143,7 +2140,7 @@ Motion:Pohyb
 Motor:Motor
 Motorbike:Motorka
 Motorcycle:Motocykl
-Mount:Mount
+Mount:Zahájit
 Mountain:Hora
 Mouse:Myš
 Mouth:Pusa
@@ -2168,9 +2165,9 @@ Museum:Muzeum
 Music:Hudba
 Musical:Hudební
 Musician:Hudebník
-Must:Musí
+Must:Muset
 My:Můj
-Myself:Moje maličkost
+Myself:Já sám
 Mysterious:Tajemný
 Mystery:Tajemství
 Nail:Nehet
@@ -2182,8 +2179,8 @@ National:Národní
 Natural:Přírodní
 Naturally:Přirozeně
 Nature:Příroda
-Navy:Námořnictva
-Near:U
+Navy:Námořnictvo
+Near:Blízko
 Nearby:V blízkosti
 Nearly:Téměř
 Neat:Elegantní
@@ -2239,7 +2236,7 @@ Northern:Severní
 Nose:Nos
 Not:Ne
 Note:Poznámka
-Note down:Poznámka dolů
+Note down:Zapsat sit
 Nothing:Nic
 Notice:Oznámení
 Noticeable:Výrazný
@@ -2250,7 +2247,7 @@ Nowhere:Nikde
 Nuclear:Jaderné
 Number:Číslo
 Nurse:Zdravotní sestřička
-Nut:Matice
+Nut:Ořech
 Obey:Poslouchat
 Object:Objekt
 Objective:Objektivní
@@ -2278,7 +2275,7 @@ Offense:Útok
 Offensive:Urážlivý
 Offer:Nabídka
 Office:Kancelář
-Officer:Důstojník
+Officer:Úředník
 Official:Oficiální
 Officially:Oficiálně
 Often:Často
@@ -2323,23 +2320,23 @@ Original:Originál
 Originally:Původně
 Other:Jiný
 Otherwise:V opačném případě
-Ought to:By měl
+Ought to:Měl by
 Our:Náš
 Ours:Naše
-Ourselves:Sebe
+Ourselves:My sami
 Out:Ven
 Outdoor:Venkovní
 Outdoors:Venku
 Outer:Vnější
 Outline:Obrys
 Output:Výstup
-Outside:Mimo
+Outside:Vnějšek
 Outstanding:Vynikající
 Oven:Trouba
 Over:Přes
 Overall:Celkově
 Overcome:Překonat
-Owe:Dlužím
+Owe:Dlužit
 Own:Vlastní
 Owner:Majitel
 Own up:Přiznat se
