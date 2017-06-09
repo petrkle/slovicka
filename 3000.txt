@@ -2341,10 +2341,10 @@ Own:Vlastní
 Owner:Majitel
 Own up:Přiznat se
 Pace:Tempo
-Pack:Balíček
+Pack:Sbalit
 Package:Balík
 Packaging:Obal
-Packet:Paketu
+Packet:Balíček
 Pack up:Zabalit
 Page:Strana
 Pain:Bolest
@@ -2372,15 +2372,15 @@ Partnership:Partnerství
 Party:Oslava
 Pass:Složit
 Passage:Průchod
-Pass away:Odejít
+Pass away:Zemřít
 Pass by:Míjet
 Passenger:Cestující
-Passing:Procházet
+Passing:Procházející
 Pass on:Předat
 Pass out:Omdlít
 Passport:Cestovní pas
-Pass round:Projít kolem
-Pass through:Projíždět
+Pass round:Dát kolovat
+Pass through:Skrz
 Past:Minulost
 Path:Cesta
 Patience:Trpělivost
@@ -2388,7 +2388,7 @@ Patient:Trpěliví
 Pattern:Vzor
 Pause:Pauza
 Pay:Platit
-Pay back:Vrátit zpět
+Pay back:Splatit
 Payment:Platba
 Pay out:Vyplatit
 Pay up:Splatit
@@ -2397,8 +2397,8 @@ Peaceful:Klidný
 Peak:Vrchol
 Pen:Pero
 Pencil:Tužka
-Penny:Penny
-Pension:Penzion
+Penny:Pence
+Pension:Důchod
 People:Lidé
 Pepper:Pepř
 Per:Za
@@ -2413,13 +2413,13 @@ Period:Doba
 Permanent:Trvalý
 Permanently:Natrvalo
 Permission:Povolení
-Permit:Povolení
+Permit:Povolit
 Person:Osoba
 Personal:Osobní
 Personality:Osobnost
 Personally:Osobně
 Persuade:Přesvědčit
-Pet:Pet
+Pet:Domácí mazlíček
 Petrol:Benzín
 Phase:Fáze
 Philosophy:Filozofie
@@ -2434,7 +2434,7 @@ Physical:Fyzický
 Physically:Fyzicky
 Physics:Fyzika
 Piano:Klavír
-Pick:Výběr
+Pick:Výbrat si
 Pick up:Vyzvednout
 Picture:Obrázek
 Piece:Kus
@@ -2443,7 +2443,7 @@ Pile:Hromada
 Pile up:Nahromadit
 Pill:Pilulka
 Pilot:Pilot
-Pin:Kolík
+Pin:Špendlík
 Pink:Růžový
 Pint:Pinta
 Pipe:Trubka
@@ -2456,11 +2456,11 @@ Plane:Letadlo
 Planet:Planeta
 Planning:Plánování
 Plant:Rostlina
-Plastic:Plastický
+Plastic:Plastový
 Plate:Talíř
 Platform:Plošina
 Play:Hrát si
-Play about:Hrát o
+Play about:Šaškovat
 Player:Hráč
 Play with:Hrát si s
 Pleasant:Příjemný
@@ -2480,13 +2480,13 @@ Poem:Báseň
 Poetry:Poezie
 Point:Bod
 Pointed:Špičatý
-Point out:Poukáže na to
+Point out:Upozornit na
 Poison:Jed
 Poisonous:Jedovatý
-Pole:Pól
+Pole:Tyč
 Police:Policie
 Policy:Politika
-Polish:Polština
+Polish:Leštit
 Polite:Zdvořilý
 Politely:Zdvořile
 Political:Politický
@@ -2496,14 +2496,14 @@ Politics:Politika
 Pollution:Znečištění
 Pool:Bazén
 Poor:Chudý
-Pop:Pop
+Pop:Bouchnout
 Popular:Oblíbený
 Population:Populace
 Port:Přístav
 Pose:Póza
 Position:Pozice
 Positive:Pozitivní
-Possess:Mít
+Possess:Vlastnit
 Possession:Majetek
 Possibility:Možnost
 Possible:Možný
@@ -2512,27 +2512,27 @@ Post:Zveřejnit
 Post office:Pošta
 Pot:Hrnec
 Potato:Brambor
-Potential:Potenciál
+Potential:Potenciální
 Potentially:Potenciálně
 Pound:Libra
 Pour:Nalévat
 Powder:Prášek
-Power:Napájení
+Power:Moc, síla
 Powerful:Silný
 Practical:Praktický
 Practically:Prakticky
 Practice:Praxe
-Practise:Praxe
+Practise:Procvičovat
 Praise:Chvála
 Pray:Modlit se
 Prayer:Modlitba
 Precise:Přesný
 Precisely:Přesně
 Predict:Předpovědět
-Prefer:Upřednostňuje
+Prefer:Upřednostňovat
 Preference:Přednost
 Pregnant:Těhotná
-Premises:Prostor
+Premises:Předpoklad
 Preparation:Příprava
 Prepare:Připravit
 Prepared:Připravený
@@ -2541,11 +2541,11 @@ Present:Současnost, dárek
 Presentation:Prezentace
 Preserve:Zachovat
 President:Prezident
-Press:Stisk
+Press:Tisknout
 Pressure:Tlak
 Presumably:Pravděpodobně
 Pretend:Předstírat
-Pretty:Dosti
+Pretty:Hezký
 Prevent:Zabránit
 Previous:Předchozí
 Previously:Dříve
@@ -2558,8 +2558,8 @@ Prime minister:Premiér
 Prince:Princ
 Princess:Princezna
 Principle:Zásada
-Print:Tisk
-Printer:Tiskárny
+Print:Tisknout
+Printer:Tiskárna
 Printing:Tisk
 Print off:Vytisknout
 Prior:Dříve
