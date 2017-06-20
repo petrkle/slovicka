@@ -2590,12 +2590,12 @@ Project:Projekt
 Promise:Slib
 Promote:Podporovat
 Promotion:Povýšení
-Prompt:Výzva
+Prompt:Okamžitý
 Promptly:Okamžitě
 Pronounce:Vyslovit
 Pronunciation:Výslovnost
 Proof:Důkaz
-Proper:Správně
+Proper:Správný
 Properly:Správně
 Property:Vlastnictví
 Proportion:Poměr
@@ -2610,7 +2610,7 @@ Proudly:Pyšně
 Prove:Dokázat
 Provide:Poskytnout
 Provided:Pokud
-Providing:Poskytování
+Providing:Pokud
 Pub:Hospoda
 Public:Veřejnost
 Publication:Vydání
@@ -2618,39 +2618,39 @@ Publicity:Publicita
 Publicly:Veřejně
 Publish:Publikovat
 Publishing:Publikování
-Pull:Sem
-Pull apart:Odtáhnout
+Pull:Táhnout
+Pull apart:Roztrhnout
 Pull down:Strhnout
-Pull in:Zatáhnout
-Pull off:Vytáhnout
+Pull in:Vjet
+Pull off:Sundat
 Pull out:Vytáhnout
-Pull over:Svetr
+Pull over:Zastavit
 Pull through:Vyváznout
-Pull together:Tahat společně
+Pull together:Spolupracovat
 Pull up:Vytáhnout
 Punch:Rána pěstí
 Punish:Potrestat
 Punishment:Trest
 Pupil:Žák
-Purchase:Nákup
+Purchase:Koupit
 Pure:Čistý
 Purely:Čistě
 Purple:Nachový
 Purpose:Účel
 Pursue:Pokračovat
-Push:Tam
-Push about:Tlačit
-Push forward:Tlačit kupředu
+Push:Tlačit
+Push about:Tlačit se
+Push forward:Pokračovat
 Put:Dát
 Put away:Dát pryč
-Put back:Vrátit se zpět
-Put down:Polož
+Put back:Dát zpátky
+Put down:Položit
 Put forward:Předložit
-Put in:Vložte
+Put in:Vložit
 Put off:Odložit
-Put on:Obléci
-Put out:Vypustit
-Put through:Projít
+Put on:Obléknout
+Put out:Vydat
+Put through:Přepojit
 Put together:Dát dohromady
 Put up:Postavit
 Put up with:Smířit se s
@@ -2659,7 +2659,7 @@ Qualified:Kvalifikovaný
 Qualify:Kvalifikovat
 Quality:Kvalitní
 Quantity:Množství
-Quarter:Čtvrťák
+Quarter:Čtvrt
 Queen:Královna
 Question:Otázka
 Quick:Rychlý
@@ -2673,10 +2673,10 @@ Race:Závod
 Racing:Závodění
 Radio:Rádio
 Rail:Železnici
-Railroad:Železnice
+Railroad:Železniční trať
 Railway:Železnice
 Rain:Déšť
-Raise:Vyzdvihnout
+Raise:Zvednout
 Range:Rozsah
 Rank:Hodnost
 Rapid:Rychlý
@@ -2685,8 +2685,7 @@ Rare:Vzácný
 Rarely:Zřídka
 Rate:Hodnotit
 Rather:Spíše
-Raw:Drsný
-Re-:Re-
+Raw:Syrový
 Reach:Dosáhnout
 React:Reagovat
 Reaction:Reakce
@@ -2694,38 +2693,38 @@ Read:Číst
 Reader:Čtenář
 Reading:Čtení
 Read out:Číst
-Read over:Přečtěte si to
+Read over:Pročíst
 Ready:Připraven
-Real:Nemovitý
+Real:Opravdový
 Realistic:Realistický
 Reality:Realita
 Realize:Realizovat
 Really:Opravdu
 Rear:Zadní
 Reason:Důvod
-Reasonable:Rozumné
+Reasonable:Rozumný
 Reasonably:Rozumně
-Recall:Odvolání
-Receipt:Příjem
-Receive:Dostávat
+Recall:Vzpomenout si
+Receipt:Účtenka
+Receive:Dostat
 Recent:Nedávno
 Recently:Nedávno
 Reception:Recepce
 Reckon:Počítat
-Reckon on:Počítat
+Reckon on:Počítat s
 Recognition:Uznání
-Recognize:Uznat
+Recognize:Poznat
 Recommend:Doporučit
 Record:Záznam
 Recording:Záznam
 Recover:Uzdravit se
-Red:Červené
+Red:Červená
 Reduce:Snížit
 Reduction:Redukce
-Refer:Odkazují
+Refer:Odkazovat se
 Reference:Odkaz
-Refer to:Odkazují na
-Reflect:Odrážejí
+Refer to:Odkazovat se na
+Reflect:Odrážet
 Reform:Reforma
 Refrigerator:Lednička
 Refusal:Zamítnutí
@@ -2740,10 +2739,10 @@ Regular:Pravidelný
 Regularly:Pravidelně
 Regulation:Nařízení
 Reject:Odmítnout
-Relate:Vztahují
+Relate:Týkat se
 Related:Příbuzný
 Relate to:Vztahovat k
-Relation:Vztah
+Relation:Vztahy
 Relationship:Vztah
 Relative:Relativní
 Relatively:Poměrně
@@ -2765,7 +2764,7 @@ Remarkable:Pozoruhodný
 Remarkably:Pozoruhodně
 Remember:Pamatovat
 Remind:Připomenout
-Remind of:Připomenout
+Remind of:Připomínat
 Remote:Dálkový
 Removal:Odstranění
 Remove:Odstranit
@@ -2776,7 +2775,7 @@ Repeat:Opakovat
 Repeated:Opakovat
 Repeatedly:Opakovaně
 Replace:Nahradit
-Reply:Odpověď
+Reply:Odpovědět
 Report:Zpráva
 Represent:Zastupovat
 Representative:Zástupce
@@ -2792,8 +2791,8 @@ Reserve:Rezervovat
 Resident:Rezident
 Resist:Odolat
 Resistance:Odpor
-Resolve:Odhodlání
-Resort:Letovisko
+Resolve:Vyřešit
+Resort:Použít
 Resort to:Uchýlit se k
 Resource:Zdroje
 Respect:Respekt
@@ -2808,10 +2807,10 @@ Restrict:Omezit
 Restricted:Omezený
 Restriction:Omezení
 Result:Výsledek
-Result in:Výsledek v
+Result in:Vést k
 Retain:Zachovat
 Retire:Odejít
-Retired:V důchodu
+Retired:Odejít do důchodu
 Retirement:Odchod do důchodu
 Return:Vrátit se
 Reveal:Odhalit
@@ -2829,28 +2828,28 @@ Ride:Jezdit
 Rider:Jezdec
 Ridiculous:Směšný
 Riding:Jezdectví
-Right:Že jo
+Right:Správný
 Rightly:Správně
 Ring:Kruh
-Ring back:Zavalat zpátky
-Rise:Vzestup
+Ring back:Zavolat zpátky
+Rise:Stoupat
 Risk:Riziko
-Rival:Soupeřit
+Rival:Soupeř
 River:Řeka
 Road:Silnice
 Rob:Okrást
 Rock:Skála
 Role:Role
-Roll:Válec
+Roll:Kutálet se
 Romantic:Romantický
 Roof:Střecha
 Room:Pokoj, místnost
-Root:Vykořenit
+Root:Kořen
 Rope:Lano
 Rough:Hrubý
 Roughly:Zhruba
 Round:Kolo
-Rounded:Zaoblený
+Rounded:Zakulacený
 Route:Trasa
 Routine:Rutinní
 Row:Řádek
@@ -2866,8 +2865,8 @@ Rule:Pravidlo
 Rule out:Vyloučit
 Ruler:Pravítko
 Rumour:Pověst
-Run:Běh
-Run after:Běžet po
+Run:Běžet
+Run after:Honit se za
 Run away:Utéct
 Runner:Běžec
 Running:Běh
