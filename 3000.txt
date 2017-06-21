@@ -2474,7 +2474,7 @@ Plot:Spiknutí
 Plug:Zástrčka
 Plug in:Zapojit
 Plus:Plus
-P.m.:Odpoledne
+PM:Odpoledne
 Pocket:Kapsa
 Poem:Báseň
 Poetry:Poezie
