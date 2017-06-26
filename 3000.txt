@@ -2882,7 +2882,7 @@ Sadness:Smutek
 Safe:Bezpečný
 Safely:Bezpečně
 Safety:Bezpečnost
-Sail:Plachta
+Sail:Plavba, Plachta
 Sailing:Plachtění
 Sailor:Námořník
 Salad:Salát
@@ -2904,11 +2904,11 @@ Saving:Úspora
 Say:Říci
 Scale:Měřítko
 Scare:Vyděsit
-Scared:Strach
+Scared:Vyděšený
 Scare off:Odradit
 Scene:Scéna
-Schedule:Plán
-Scheme:Systém
+Schedule:Rozvrh
+Scheme:Plán
 School:Škola
 Science:Věda
 Scientific:Vědecký
@@ -2920,15 +2920,15 @@ Scream:Výkřik
 Screen:Obrazovka
 Screw:Šroub
 Sea:Moře
-Seal:Těsnění
+Seal:Zalepit
 Seal off:Uzavřít
-Search:Vyhledávání
+Search:Hledat
 Season:Sezóna
 Seat:Sedadlo
 Second:Druhý
-Secondary:Sekundární
+Secondary:Druhotný
 Secret:Tajný
-Secretary:Tajemník
+Secretary:Sekretářka
 Secretly:Tajně
 Section:Sekce
 Sector:Sektor
@@ -2939,14 +2939,13 @@ See about:Postarat se o
 Seed:Semínko
 Seek:Hledat
 Seem:Zdát se
-See to:Viz
+See to:Dohlédnout na
 Select:Vybrat
 Selection:Výběr
 Self:Já
-Self-:Já-
 Sell:Prodat
 Sell off:Rozprodat
-Sell out:Prodat
+Sell out:Vyprodat
 Senate:Senát
 Senator:Senátor
 Send:Poslat
@@ -2960,12 +2959,12 @@ Sentence:Věta
 Separate:Samostatný
 Separated:Oddělený
 Separately:Odděleně
-Separation:Oddělení
+Separation:Rozdělení
 September:Září
 Series:Série
-Serious:Vážně
+Serious:Vážný
 Seriously:Vážně
-Servant:Služebník
+Servant:Sluha
 Serve:Sloužit
 Service:Servis
 Session:Zasedání
