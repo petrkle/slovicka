@@ -2967,10 +2967,10 @@ Seriously:Vážně
 Servant:Sluha
 Serve:Sloužit
 Service:Servis
-Session:Zasedání
-Set:Soubor
-Set off:Vyrazit
-Set out:Stanoveno
+Session:Schůze
+Set:Nastavit
+Set off:Vydat se na cestu
+Set out:Vyrazit na cestu
 Settle:Usadit
 Settle down:Usadit se
 Set up:Založit
@@ -2984,17 +2984,17 @@ Severe:Závažné
 Severely:Vážně
 Sew:Šít
 Sewing:Šití
-Sex:Sex
+Sex:Pohlaví
 Sexual:Sexuální
 Sexually:Sexuálně
 Shade:Odstín
 Shadow:Stín
-Shake:Otřást
+Shake:Třást
 Shall:Musí
 Shallow:Mělký
 Shame:Ostuda
 Shape:Tvar
-Shaped:Tvarovaná
+Shaped:Tvarovaný
 Share:Podíl
 Sharp:Ostrý
 Sharply:Ostře
@@ -3003,15 +3003,15 @@ She:Ona
 Sheep:Ovce
 Sheet:List
 Shelf:Police
-Shell:Shell
+Shell:Mušle
 Shelter:Přístřeší
-Shift:Posun
+Shift:Posunout
 Shine:Lesk
 Shiny:Lesklý
 Ship:Loď
 Shirt:Košile
 Shock:Šokovat
-Shocked:Šokován
+Shocked:Šokovaný
 Shocking:Šokující
 Shoe:Boty
 Shoot:Střílet
@@ -3022,19 +3022,19 @@ Shopping:Nakupování
 Short:Krátký
 Shortly:Krátce
 Shot:Výstřel
-Should:By měl
+Should:Měl by
 Shoulder:Rameno
 Shout:Křičet
 Show:Show
 Shower:Sprcha
-Show off:Ukázat
-Show round:Zobrazit kolo
+Show off:Předvádět se
+Show round:Provést
 Show up:Ukázat
-Shut:Zavřeno
-Shut down:Vypnout
+Shut:Zavřít
+Shut down:Skončit
 Shut in:Zavřít
-Shut out:Vypnout
-Shut up:Drž hubu
+Shut out:Nevpustit dovnitř
+Shut up:Zmlknout
 Shy:Plachý
 Sick:Nemocný
 Side:Boční
@@ -3045,7 +3045,7 @@ Signal:Signál
 Signature:Podpis
 Significant:Významný
 Significantly:Významně
-Silence:Umlčet
+Silence:Ticho
 Silent:Tichý
 Silk:Hedvábí
 Silly:Hloupý
@@ -3056,17 +3056,17 @@ Simple:Jednoduchý
 Simply:Jednoduše
 Since:Od té doby
 Sincere:Upřímný
-Sincerely:S pozdravem
+Sincerely:Upřímně, S pozdravem
 Sing:Zpívat
 Singer:Zpěvák
 Singing:Zpěv
-Single:Singl
+Single:Jediný
 Sink:Dřez
-Sir:Vážený pane
+Sir:Pan (uctivé oslovení)
 Sister:Sestra
 Sit:Sedět
-Sit down:Sedni si
-Site:Webu
+Sit down:Sednout si
+Site:Místo
 Situation:Situace
 Six:Šest
 Sixteen:Šestnáct
@@ -3077,25 +3077,25 @@ Size:Velikost
 Skilful:Šikovný
 Skilfully:Dovedně
 Skill:Dovednost
-Skilled:Kvalifikovaní
+Skilled:Kvalifikovaný
 Skin:Kůže
 Skirt:Sukně
 Sky:Nebe
 Sleep:Spát
 Sleeve:Rukáv
 Slice:Plátek
-Slide:Skluzavka
-Slight:Mírné
+Slide:Klouzat se
+Slight:Mírný
 Slightly:Mírně
-Slip:Uklouznutí
-Slope:Sklon
+Slip:Uklouznout
+Slope:Svah
 Slow:Pomalý
 Slowly:Pomalu
 Small:Malý
 Smart:Chytrý
 Smash:Rozbít
 Smell:Čich
-Smile:Usměj se
+Smile:Usmát se
 Smoke:Kouř
 Smoking:Kouření
 Smooth:Hladký
@@ -3122,28 +3122,28 @@ Somehow:Nějak
 Someone:Někdo
 Something:Něco
 Sometimes:Někdy
-Somewhat:Poněkud
+Somewhat:Trochu
 Somewhere:Někde
 Son:Syn
 Song:Píseň
-Soon:Již brzy
-Sore:Bolest
+Soon:Brzo
+Sore:Bolavý
 Sorry:Promiňte
-Sort:Třídění
-Sort out:Vytřídit
+Sort:Třídit
+Sort out:Roztřídit
 Soul:Duše
 Sound:Zvuk
 Soup:Polévka
 Sour:Kyselý
 Source:Zdroj
-South:Jižní
+South:Jih
 Southern:Jižní
 Space:Prostor
 Spare:Náhradní
 Speak:Mluvit
 Speaker:Mluvčí
-Speak out:Promluvte
-Speak up:Mluvit
+Speak out:Promluvit
+Speak up:Ozvat se
 Special:Speciální
 Specialist:Specialista
 Specially:Speciálně
@@ -3163,14 +3163,14 @@ Spirit:Duch
 Spiritual:Duchovní
 Spite:Přestože
 Split:Rozdělit
-Split up:Rozdělit
+Split up:Rozejít se
 Spoil:Zkazit
 Spoken:Mluvený
 Spoon:Lžíce
 Sport:Sport
 Spot:Bod
 Spray:Sprej
-Spread:Rozpětí
+Spread:Rozprostřít
 Spread out:Rozšířit
 Spring:Jaro
 Square:Náměstí
@@ -3180,57 +3180,57 @@ Staff:Personál
 Stage:Fáze
 Stair:Schodiště
 Stamp:Razítko
-Stand:Vydržet
+Stand:Stát
 Standard:Standard
 Stand back:Odstoupit
-Stand by:Stáhněte
-Stand for:Stát pro
+Stand by:Čekat
+Stand for:Znamenat
 Stand out:Vyčnívat
-Stand up:Postav se
+Stand up:Postavit se
 Stand up for:Zastat se
 Star:Hvězda
-Stare:Upřený pohled
-Start:Start
+Stare:Zírat
+Start:Začít
 Start off:Odstartovat
 Start out:Začít
-Start up:Spuštění
+Start up:Založit
 State:Stát
 Statement:Prohlášení
 Station:Stanice
 Statue:Socha
 Status:Postavení
-Stay:Pobyt
+Stay:Zůstat
 Stay away:Nepřibližovat se
-Stay out of:Zůstaňte mimo
+Stay out of:Vyhnout se
 Steadily:Stále
-Steady:Stabilní
+Steady:Stálý
 Steal:Ukrást
-Steam:Parní
+Steam:Pára
 Steel:Ocel
-Steep:Strmé
+Steep:Strmý
 Steeply:Prudce
 Steer:Řídit
 Step:Krok
 Stick:Lepit
 Stick out:Vystrčit
 Stick to:Držet se
-Stick up:Držet se
+Stick up:Vyčnívat
 Sticky:Lepkavý
 Stiff:Tuhý
 Stiffly:Tvrdě
-Still:Ještě pořád
+Still:Stále
 Sting:Bodnutí
-Stir:Rozruch
-Stock:Skladem
+Stir:Míchat
+Stock:Zásoby, Sklad
 Stomach:Žaludek
 Stone:Kámen
-Stop:Stop
+Stop:Přestat
 Store:Obchod
 Storm:Bouřka
 Story:Příběh
 Stove:Kamna
 Straight:Rovný
-Strain:Kmen
+Strain:Napětí, Námaha
 Strange:Podivný
 Strangely:Podivně
 Stranger:Cizinec
@@ -3239,13 +3239,13 @@ Stream:Proud
 Street:Ulice
 Strength:Síla
 Stress:Stres
-Stressed:Zdůraznil
+Stressed:Vystresovaný
 Stretch:Protáhnout se
 Strict:Přísný
 Strictly:Přísně
 Strike:Stávka
-Striking:Překvapující
-String:Řetězec
+Striking:Výrazný
+String:Řetěz
 Strip:Pás
 Stripe:Proužek
 Striped:Pruhovaný
@@ -3253,10 +3253,10 @@ Stroke:Mrtvice
 Strong:Silný
 Strongly:Silně
 Structure:Struktura
-Struggle:Boj
+Struggle:Usilovat, Bojovat
 Student:Student
 Studio:Studio
-Study:Studie
+Study:Studovat
 Stuff:Věci
 Stupid:Hloupý
 Style:Styl
@@ -3286,17 +3286,17 @@ Suitcase:Kufr
 Suited:Vhodný
 Sum:Součet
 Summary:Souhrn
-Summer:Letní
+Summer:Léto
 Sum up:Shrnout
 Sun:Slunce
 Sunday:Neděle
 Superior:Nadřízený
 Supermarket:Supermarket
 Supply:Zásobování
-Support:Podpěra, podpora
+Support:Podpora
 Supporter:Příznivce
 Suppose:Předpokládat
-Sure:Tak určitě
+Sure:Jistý
 Surely:Jistě
 Surface:Povrch
 Surname:Příjmení
@@ -3304,7 +3304,7 @@ Surprise:Překvapení
 Surprised:Překvapený
 Surprising:Překvapující
 Surprisingly:Překvapivě
-Surround:Surround
+Surround:Obklopit
 Surrounding:Okolní
 Surroundings:Okolí
 Survey:Průzkum
@@ -3314,12 +3314,12 @@ Suspicion:Podezření
 Suspicious:Podezřelý
 Swallow:Polykat
 Swear:Přísahat
-Swearing:Přísahám
+Swearing:Nadávání
 Sweat:Potit se
 Sweater:Svetr
 Sweep:Zametat
 Sweet:Sladký
-Swell:Bobtnání
+Swell:Napuchnout
 Swelling:Otok
 Swim:Plavat
 Swimming:Plavání
@@ -3338,19 +3338,19 @@ Tackle:Řešit
 Tail:Ocas
 Take:Vzít
 Take away:Odnést
-Take back:Vzít zpět
-Take down:Sejmout
+Take back:Vrátit
+Take down:Sundat
 Take in:Přijmout
 Take off:Vzlétnout
-Take on:Vzít
+Take on:Vzít si
 Take over:Převzít
-Take up:Přijmout
+Take up:Začít
 Talk:Mluvit
 Tall:Vysoký
 Tank:Nádrž
-Tap:Klepněte na tlačítko
+Tap:Kohoutek, Klepat
 Tape:Páska
-Target:Cílová
+Target:Terč, Cíl
 Task:Úkol
 Taste:Chuť
 Tax:Daň
@@ -3364,7 +3364,7 @@ Tear:Slza
 Tear up:Roztrhat
 Technical:Technický
 Technique:Technika
-Technology:Technika
+Technology:Technologie
 Telephone:Telefon
 Television:Televize
 Tell:Sdělit
@@ -3373,7 +3373,7 @@ Temperature:Teplota
 Temporarily:Dočasně
 Temporary:Dočasný
 Ten:Deset
-Tend:Tendenci
+Tend:Mít tendenci
 Tendency:Tendence
 Tension:Napětí
 Tent:Stan
@@ -3383,7 +3383,7 @@ Terrible:Hrozný
 Terribly:Strašně
 Than:Než
 Thank:Poděkovat
-Thanks:Dík
+Thanks:Díky
 Thank you:Děkuji
 That:Že
 Theatre:Divadlo
@@ -3405,11 +3405,10 @@ Thin:Tenký
 Thing:Věc
 Think:Myslet si
 Think about:Přemýšlet o
-Thinking:Myslící
+Thinking:Myšlení
 Think of:Myslet na
-Think of as:Přemýšlejte o tom
 Think over:Promyslet
-Think up:Přemýšlejte
+Think up:Vymyslet
 Third:Třetí
 Thirsty:Žíznivý
 Thirteen:Třináct
@@ -3420,12 +3419,12 @@ This:Tento
 Thorough:Důkladný
 Thoroughly:Důkladně
 Though:Ačkoli
-Thought:Myslel
+Thought:Myšlenka
 Thousand:Tisíc
 Thousandth:Tisící
 Thread:Vlákno
 Threat:Ohrožení
-Threaten:Hrozí
+Threaten:Hrozit
 Threatening:Hrozivý
 Three:Tři
 Throat:Hrdlo
