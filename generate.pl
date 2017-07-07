@@ -3,6 +3,8 @@
 use strict;
 use warnings;
 
+no warnings 'redefine';
+
 use utf8;
 use open ':std', ':encoding(UTF-8)';
 use Template;
@@ -33,6 +35,28 @@ GetOptions (
 
 my @content = read_lines('3000.txt');
 
+use TeX::Hyphen;
+
+sub TeX::Hyphen::visualize {
+        my ($self, $word, $separator) = (shift, shift, shift);
+        my $number = 0;
+        my $pos;
+
+        for $pos ($self->hyphenate($word)) {
+                substr($word, $pos + $number, 0) = $separator;
+                $number = $number + length($separator);;
+        }
+        return $word;
+}
+
+my $hypcz = new TeX::Hyphen 'file' => 'czhyph.tex',
+        'style' => 'czech', leftmin => 2,
+        rightmin => 2;
+
+my $hypen = new TeX::Hyphen 'file' => 'ukhyphen.tex',
+        'style' => 'czech', leftmin => 2,
+        rightmin => 2;
+
 my %abeceda;
 my %pridat;
 my %slovicka;
@@ -40,6 +64,7 @@ my %slovicka;
 my $md5 = dir_md5_base64($IN);
 my $cachebuster = crc32(join('', sort values %{$md5}));
 my $cacheversion = scalar time;
+my $wbr = '&shy;';
 
 foreach my $line (@content){
 	my ($en, $cz) = split /:/, $line;
@@ -50,7 +75,7 @@ foreach my $line (@content){
 	}else{
 		$abeceda{$fl} = 1;
 	}
-	$slovicka{$fl}{$en} = $cz;
+	$slovicka{$fl}{$hypen->visualize($en, $wbr)} = $hypcz->visualize($cz, $wbr);
 	my $zbytek = $abeceda{$fl} % 6;
 }
 
