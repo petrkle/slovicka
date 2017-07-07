@@ -34,6 +34,7 @@ GetOptions (
 my @content = read_lines('3000.txt');
 
 my %abeceda;
+my %pridat;
 my %slovicka;
 
 my $md5 = dir_md5_base64($IN);
@@ -50,6 +51,12 @@ foreach my $line (@content){
 		$abeceda{$fl} = 1;
 	}
 	$slovicka{$fl}{$en} = $cz;
+	my $zbytek = $abeceda{$fl} % 6;
+}
+
+for my $pismeno (sort keys %abeceda) {
+	my $zbytek = $abeceda{$pismeno} % 6;
+	$pridat{$pismeno} = 6 - $zbytek;
 }
 
 my $t = Template->new({
@@ -72,6 +79,8 @@ for my $pismeno (sort keys %slovicka) {
 		{ 
 			'title' => $appname . ' - '. uc $pismeno,
 			'slovicka' => $slovicka{$pismeno},
+			'pismeno' => $pismeno,
+			'pridat' => \%pridat,
 		},
 		"$OUT/$pismeno.html",
 		{ binmode => ':utf8' }) or die $t->error;

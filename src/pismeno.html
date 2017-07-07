@@ -2,6 +2,13 @@
 <div class="flex-container">
 [% FOREACH slovicko IN slovicka -%]
 <div class="fcs"><div class="fis" data-translation="[% slovicko.value %]">[% slovicko.key %]</div></div>
+[% IF loop.last %]
+[% SET foo = 0 %]
+[% WHILE foo < pridat.${pismeno} %]
+<div class="fcs">&nbsp;</div>
+[% foo = foo + 1 %]
+[% END %]
+[% END %]
 [%- END %]
 </div>
 <script src="/[% dir %]/[% cachebuster %]-slovicka.js"></script>
