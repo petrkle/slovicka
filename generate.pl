@@ -119,6 +119,13 @@ $t->process('index.html',
 	"$OUT/index.html",
 	{ binmode => ':utf8' }) or die $t->error;
 
+$t->process('404.html',
+	{ 
+		'title' => 'Stránka nenalezena',
+	},
+	"$OUT/404.html",
+	{ binmode => ':utf8' }) or die $t->error;
+
 my @files = (
 	'slovicka.css',
 	'browserconfig.xml',
