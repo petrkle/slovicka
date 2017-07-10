@@ -17,6 +17,9 @@ h1{color:#fff;background:url("[% cachebuster %]-icon.svg") 99% 50% no-repeat #21
 .fcs{flex:0 0 16%;display:flex;justify-content:center;align-items:stretch;padding:0;margin:0;box-sizing:border-box;flex-grow:1;}
 }
 @media print{
+body{margin:1em 5em;}
+.flex-container{display:flex;justify-content:flex-start;flex-wrap:wrap;}
+.fcs{flex:0 0 50%;display:flex;justify-content:left;align-items:stretch;padding:0;margin:0;box-sizing:border-box;flex-grow:1;position:relative;}
 h1,a{color:#000;text-decoration:none;}
-.fis:after{content:attr(data-translation);position:relative;left:3em;}
+.fis:after{content:attr(data-translation);position:absolute;left:10em;}
 }
