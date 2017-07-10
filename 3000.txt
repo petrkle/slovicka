@@ -2672,7 +2672,7 @@ Quote:Citát
 Race:Závod
 Racing:Závodění
 Radio:Rádio
-Rail:Železnici
+Rail:Kolejnice
 Railroad:Železniční trať
 Railway:Železnice
 Rain:Déšť
