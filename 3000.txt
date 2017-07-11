@@ -3430,38 +3430,38 @@ Three:Tři
 Throat:Hrdlo
 Through:Přes
 Throughout:Po celou dobu
-Throw:Hod
+Throw:Hodit
 Throw away:Zahodit
 Throw out:Vyhodit
 Thumb:Palec
 Thursday:Čtvrtek
-Thus:Tím pádem
+Thus:Tudíž
 Ticket:Lístek
 Tidy:Uklidit
 Tie:Kravata
-Tie up:Váznout
+Tie up:Zavázat
 Tight:Těsný
 Tightly:Těsně
 Till:Až do
 Time:Čas
-Timetable:Jízdní řád
-Tin:Cín
+Timetable:Rozvrh
+Tin:Cín, Plechovka
 Tiny:Drobný
-Tip:Tip
-Tip over:Překročit
+Tip:Spropitné
+Tip over:Převrhnout
 Tire:Pneumatika
 Tired:Unavený
 Tire out:Vyčerpat
-Tiring:Únavné
+Tiring:Únavný
 Title:Titul
-To:Na
+To:K
 Today:Dnes
 Toe:Prst
 Together:Spolu
 Toilet:Toaleta
 Tomato:Rajče
 Tomorrow:Zítra
-Ton:Tón
+Ton:Tuna
 Tone:Tón
 Tongue:Jazyk
 Tonight:Dnes večer
@@ -3476,7 +3476,7 @@ Totally:Naprosto
 Touch:Dotek
 Tough:Těžké
 Tour:Prohlídka
-Tourist:Turistické
+Tourist:Turista
 Towards:Vůči
 Towel:Ručník
 Tower:Věž
