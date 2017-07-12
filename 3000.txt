@@ -3497,7 +3497,7 @@ Transform:Přeměnit
 Translate:Přeložit
 Translation:Překlad
 Transparent:Průhledný
-Transport:Doprava
+Transport:Dopravit
 Transportation:Přeprava
 Trap:Past
 Travel:Cestovat
@@ -3506,40 +3506,40 @@ Treat:Zacházet
 Treatment:Léčba
 Tree:Strom
 Trend:Trend
-Trial:Pokus
+Trial:Soud
 Triangle:Trojúhelník
 Trick:Trik
 Trip:Výlet
 Tropical:Tropický
-Trouble:Problémy
+Trouble:Problém
 Trousers:Kalhoty
 Truck:Nákladní automobil
 True:Skutečný
 Truly:Opravdu
 Trust:Důvěra
 Truth:Pravda
-Try:Snaž se
-Try on:Zkusit
-Try out:Vyzkoušet
+Try:Snažit se
+Try on:Vyzkoušet si
+Try out:Otestovat
 Tube:Trubka
 Tuesday:Úterý
 Tune:Naladit
 Tunnel:Tunel
 Turn:Otočit se
 Turn back:Otočit se
-Turn down:Vypnout
+Turn down:Zeslabit
 Turn into:Změnit se v
 Turn off:Vypnout
 Turn on:Zapnout
-Turn out:Vyjít
-Turn over:Otočte
+Turn out:Dopadnout
+Turn over:Obrátit
 Turn round:Otočit se
 Turn to:Obrátit se na
 Turn up:Zesílit
 Tv:Televize
 Twelfth:Dvanáctý
 Twelve:Dvanáct
-Twentieth:Dvacetina
+Twentieth:Dvacátý
 Twenty:Dvacet
 Twice:Dvakrát
 Twin:Dvojče
@@ -3560,7 +3560,7 @@ Uncertain:Nejistý
 Uncle:Strýc
 Uncomfortable:Nepříjemný
 Unconscious:V bezvědomí
-Uncontrolled:Nekontrolované
+Uncontrolled:Nekontrolovaný
 Under:Pod
 Underground:Podzemí
 Underneath:Pod
@@ -3571,16 +3571,16 @@ Underwear:Spodní prádlo
 Undo:Vrátit
 Unemployed:Nezaměstnaný
 Unemployment:Nezaměstnanost
-Unexpected:Nečekané
+Unexpected:Nečekaný
 Unexpectedly:Nečekaně
-Unfair:Nespravedlivé
+Unfair:Nespravedlivý
 Unfairly:Nespravedlivě
 Unfortunate:Nešťastný
 Unfortunately:Bohužel
 Unfriendly:Nepřátelský
 Unhappy:Nešťastný
 Uniform:Jednotný
-Unimportant:Nedůležité
+Unimportant:Nedůležitý
 Union:Svaz
 Unique:Unikátní
 Unit:Jednotka
@@ -3588,19 +3588,19 @@ Unite:Sjednotit
 United:Sjednocený
 Universe:Vesmír
 University:Univerzita
-Unkind:Nelíbí
+Unkind:Nepříjemný
 Unknown:Neznámý
-Unless:Pokud není
+Unless:Pokud ne
 Unlike:Na rozdíl od
-Unlikely:Nepravděpodobné
+Unlikely:Nepravděpodobný
 Unload:Vyložit
 Unlucky:Nešťastný
-Unnecessary:Zbytečné
+Unnecessary:Zbytečný
 Unpleasant:Nepříjemný
-Unreasonable:Nepřiměřené
+Unreasonable:Nerozumný
 Unsteady:Nestabilní
 Unsuccessful:Neúspěšný
-Untidy:Nešťastný
+Untidy:Neuklizený
 Until:Až do
 Unusual:Neobvyklý
 Unusually:Neobvykle
@@ -3613,19 +3613,19 @@ Upset:Smutný
 Upsetting:Rozčilující
 Upside down:Vzhůru nohama
 Upstairs:Nahoru po schodech
-Upward:Nahoru
+Upward:Vzestupný
 Upwards:Nahoru
 Urban:Městský
 Urge:Naléhat
 Urgent:Naléhavé
 Us:Nás
-Use:Použití
-Used:Použité
+Use:Použít
+Used:Použitý
 Used to:Bývalo
 Useful:Užitečný
 Useless:Zbytečný
 User:Uživatel
-Use up:Používat
+Use up:Spotřebovat
 Usual:Obvyklý
 Usually:Obvykle
 Vacation:Dovolená
@@ -3638,11 +3638,11 @@ Variation:Změna
 Varied:Pestrý
 Variety:Odrůda
 Various:Rozličný
-Vary:Různé
+Vary:Lišit se
 Vast:Obrovský
-Vegetable:Zeleniny
+Vegetable:Zelenina
 Vehicle:Vozidlo
-Venture:Podnik
+Venture:Odvážit se
 Version:Verze
 Vertical:Vertikální
 Very:Velmi
@@ -3657,9 +3657,9 @@ Violent:Násilný
 Violently:Násilně
 Virtually:Prakticky
 Virus:Virus
-Visible:Viditelné
+Visible:Viditelný
 Vision:Vidění
-Visit:Návštěva
+Visit:Navštívit
 Visitor:Návštěvník
 Vital:Vitální
 Vocabulary:Slovní zásoba
