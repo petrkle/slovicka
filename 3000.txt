@@ -3668,17 +3668,17 @@ Volume:Hlasitost
 Vote:Hlasování
 Wage:Mzda
 Waist:Pás
-Wait:Počkejte
+Wait:Počkat
 Waiter:Číšník
 Wake:Probudit
-Walk:Procházka
+Walk:Jít pěšky
 Walking:Chůze
-Walk out:Vyjít ven
-Walk up:Chodit nahoru
+Walk out:Odejít
+Walk up:Přistoupit
 Wall:Stěna
 Wallet:Peněženka
-Wander:Bloudit
-Want:Chtějí
+Wander:Toulat se
+Want:Chtít
 War:Válka
 Warm:Teplý
 Warmth:Teplo
@@ -3686,15 +3686,15 @@ Warm up:Zahřát
 Warn:Varovat
 Warning:Varování
 Wash:Umýt
-Wash away:Umyjte pryč
+Wash away:Spláchnout
 Washing:Mytí
 Wash off:Smýt
 Wash out:Vypláchnout
 Wash up:Mýt nádobí
-Waste:Odpad
-Watch:Hodinky
-Watch out:Dávej pozor
-Watch out for:Dávej pozor na
+Waste:Plýtvat
+Watch:Sledovat, Hodinky
+Watch out:Dávat pozor
+Watch out for:Dávat pozor na
 Water:Voda
 Wave:Vlna
 Way:Cesta
@@ -3704,11 +3704,11 @@ Weakness:Slabost
 Wealth:Bohatství
 Weapon:Zbraň
 Wear:Mít na sobě
-Wear away:Opotřebení
-Wear off:Zanikat
+Wear away:Opotřebovat
+Wear off:Odřít se
 Wear out:Opotřebovat
 Weather:Počasí
-Web:Pavučina
+Web:Pavučina, Síť
 Website:Webová stránka
 Wedding:Svatba
 Wednesday:Středa
@@ -3717,14 +3717,14 @@ Weekend:Víkend
 Weekly:Týdně
 Weigh:Vážit
 Weight:Hmotnost
-Welcome:Vítejte
+Welcome:Uvítání
 Well:Dobře
 Well known:Dobře známý
 West:Západ
 Western:Západní
 Wet:Mokrý
 What:Co
-Whatever:To je jedno
+Whatever:Cokoli
 Wheel:Kolo
 When:Když
 Whenever:Kdykoli
@@ -3734,7 +3734,7 @@ Wherever:Kdekoli
 Whether:Zda
 Which:Který
 While:Zatímco
-Whisper:Šepot
+Whisper:Šeptat
 Whistle:Pískat
 White:Bílý
 Who:Kdo
@@ -3812,9 +3812,9 @@ Yesterday:Včera
 Yet:Dosud
 You:Vy
 Young:Mladý
-Your:Vaše
-Yours:Vaše
-Yourself:Vy sám
+Your:Tvůj, Váš
+Yours:Tvůj, Váš
+Yourself:Ty/Vy sám
 Youth:Mládí
 Zero:Nula
 Zone:Pásmo
