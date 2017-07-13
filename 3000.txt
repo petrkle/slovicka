@@ -188,7 +188,7 @@ Approximately:Přibližně
 April:Duben
 Area:Plocha
 Argue:Dohadovat se
-Argument:Argument
+Argument:Důvod
 Arise:Vzniknout
 Arm:Paže
 Armed:Ozbrojený
@@ -383,7 +383,7 @@ Bottle:Láhev
 Bottom:Dno
 Bound:Vázaný
 Bowl:Miska
-Box:Box
+Box:Krabice
 Boy:Chlapec
 Boyfriend:Přítel
 Brain:Mozek
@@ -506,14 +506,13 @@ Catch:Chytit
 Catch up:Dohnat
 Category:Kategorie
 Cause:Způsobit
-Cd:Cd
 Cease:Přestat
 Ceiling:Strop
 Celebrate:Slavit
 Celebration:Oslava
 Cell:Buňka
 Cell phone:Mobilní telefon
-Cent:Cent
+Cent:Setina dolaru
 Centimetre:Centimetr
 Central:Centrální
 Centre:Centrum
@@ -843,7 +842,7 @@ Danger:Nebezpečí
 Dangerous:Nebezpečný
 Dare:Odvážit se
 Dark:Temný
-Data:Data
+Data:Údaje
 Date:Datum
 Date back:Datovat se
 Daughter:Dcera
@@ -907,7 +906,7 @@ Description:Popis
 Desert:Poušť
 Deserted:Opuštěný
 Deserve:Zasloužit si
-Design:Design
+Design:Návrh
 Desire:Touha
 Desk:Lavice
 Desperate:Zoufalý
@@ -915,8 +914,8 @@ Desperately:Zoufale
 Despite:I přes
 Destroy:Zničit
 Destruction:Zničení
-Detail:Detail
-Detailed:Detailní
+Detail:Podrobnost
+Detailed:Podrobný
 Determination:Určení
 Determine:Určit
 Determined:Určeno
@@ -926,7 +925,7 @@ Device:Přístroj
 Devote:Věnovat
 Devoted:Oddaný
 Devote to:Věnovat se
-Diagram:Diagram
+Diagram:Schéma
 Diamond:Diamant
 Diary:Deník
 Dictionary:Slovník
@@ -976,7 +975,6 @@ Disgusting:Nechutný
 Dish:Jídlo
 Dishonest:Nečestný
 Dishonestly:Nečestně
-Disk:Disk
 Dislike:Nemít rád
 Dismiss:Propustit
 Display:Zobrazit
@@ -1013,7 +1011,7 @@ Downwards:Dolů
 Dozen:Tucet
 Draft:Návrh
 Drag:Táhnout
-Drama:Drama
+Drama:Divadelní hra
 Dramatic:Dramatický
 Dramatically:Dramaticky
 Draw:Kreslit
@@ -1063,7 +1061,7 @@ Economic:Hospodářský
 Economy:Ekonomika
 Edge:Okraj
 Edition:Edice
-Editor:Editor
+Editor:Redaktor
 Educate:Vzdělávat
 Educated:Vzdělaný
 Education:Vzdělání
@@ -1167,7 +1165,7 @@ Establish:Vytvořit
 Estate:Majetek
 Estimate:Odhad
 Etc.:Atd.
-Euro:Euro
+Euro:Měna EU
 Even:Dokonce
 Evening:Večer
 Event:Událost
@@ -1205,7 +1203,7 @@ Exercise:Cvičení
 Exhibit:Exponát
 Exhibition:Výstava
 Exist:Existovat
-Existence:Existence
+Existence:Bytí koho/čeho
 Exit:Výstup
 Expand:Rozšířit
 Expect:Očekávat
@@ -1215,8 +1213,8 @@ Expense:Náklady
 Expensive:Drahý
 Experience:Zkusenosti
 Experienced:Zkušený
-Experiment:Experiment
-Expert:Expert
+Experiment:Pokus
+Expert:Odborník
 Explain:Vysvětlit
 Explanation:Vysvětlení
 Explode:Explodovat
@@ -1286,7 +1284,7 @@ Feeling:Pocit
 Fellow:Chlapík
 Female:Ženský
 Fence:Plot
-Festival:Festival
+Festival:Svátek
 Fetch:Vynést
 Fever:Horečka
 Few:Pár
@@ -1305,10 +1303,10 @@ Fill:Vyplnit
 Fill in:Vyplnit
 Fill out:Vyplnit
 Fill up:Naplnit
-Film:Film
+Film:Tenká vrstva
 Final:Finále
 Finally:Konečně
-Finance:Finance
+Finance:Financovat
 Financial:Finanční
 Find:Nalézt
 Find out:Zjistit
@@ -1439,7 +1437,7 @@ Generation:Generace
 Generous:Štědrý
 Generously:Velkoryse
 Gentle:Jemný
-Gentleman:Gentleman
+Gentleman:Džentlmen
 Gently:Jemně
 Genuine:Originální
 Genuinely:Skutečně
@@ -1510,7 +1508,6 @@ Grade:Školní známka
 Gradual:Postupný
 Gradually:Postupně
 Grain:Obilí
-Gram:Gram
 Grammar:Gramatika
 Grand:Ohromný
 Grandchild:Vnouče
@@ -1628,7 +1625,7 @@ His:Jeho
 Historical:Historický
 History:Dějiny
 Hit:Udeřit
-Hobby:Hobby
+Hobby:Záliba
 Hold:Držet
 Hold back:Zadržet
 Hold on:Vydrž
@@ -1653,7 +1650,6 @@ Horse:Kůň
 Hospital:Nemocnice
 Host:Hostitel
 Hot:Horký
-Hotel:Hotel
 Hour:Hodina
 House:Dům
 Household:Domácnost
@@ -1676,7 +1672,7 @@ Husband:Manžel
 I:Já
 Ice:Led
 Ice cream:Zmrzlina
-Idea:Idea
+Idea:Myšlenka
 Ideal:Ideální
 Identify:Identifikovat
 Identify with:Identifikovat se s
@@ -1715,7 +1711,7 @@ Improvement:Zlepšení
 In:V
 Inability:Neschopnost
 Inch:Palec
-Incident:Incident
+Incident:Mimořádná událost
 Include:Zahrnout
 Including:Včetně
 Income:Příjem
@@ -1725,7 +1721,6 @@ Indeed:Vskutku
 Independence:Nezávislost
 Independent:Nezávislý
 Independently:Nezávisle
-Index:Index
 Indicate:Naznačovat
 Indication:Náznak
 Indirect:Nepřímý
@@ -1783,12 +1778,10 @@ Interesting:Zajímavý
 Interior:Interiér
 Internal:Vnitřní
 International:Mezinárodní
-Internet:Internet
 Interpret:Interpretovat
 Interpretation:Výklad
 Interrupt:Přerušit
 Interruption:Přerušení
-Interval:Interval
 Interview:Rozhovor
 Into:Do
 Introduce:Představit
@@ -1853,7 +1846,6 @@ Kick:Kopnout
 Kid:Dítě
 Kill:Zabít
 Killing:Zabíjení
-Kilogram:Kilogram
 Kilometre:Kilometr
 Kind:Druh
 Kindly:Laskavě
@@ -2033,7 +2025,6 @@ Map:Mapa
 March:Březen
 Mark:Označit
 Market:Trh
-Marketing:Marketing
 Marriage:Manželství
 Married:Ženatý
 Marry:Oženit se
@@ -2047,7 +2038,6 @@ Mate:Kamarát
 Material:Materiál
 Mathematics:Matematika
 Matter:Záležitost
-Maximum:Maximum
 May:Smět
 Maybe:Možná
 Mayor:Starosta
@@ -2118,13 +2108,12 @@ Mixture:Směs
 Mix up:Pomíchat
 Mobile:Mobilní, pohybliví
 Mobile phone:Mobilní telefon
-Model:Model
 Modern:Moderní
 Mom:Maminka
-Moment:Moment
+Moment:Chvíle
 Monday:Pondělí
 Money:Peníze
-Monitor:Monitor
+Monitor:Sledovat
 Month:Měsíc
 Mood:Nálada
 Moon:Měsíc
