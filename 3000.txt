@@ -2126,7 +2126,6 @@ Most:Většina
 Mostly:Většinou
 Mother:Matka
 Motion:Pohyb
-Motor:Motor
 Motorbike:Motorka
 Motorcycle:Motocykl
 Mount:Zahájit
@@ -2270,7 +2269,7 @@ Officially:Oficiálně
 Often:Často
 Oh:Ach
 Oil:Olej
-Ok:Ok
+Ok:Fajn
 Old:Starý
 Old-fashioned:Staromódní
 On:Na
@@ -2278,7 +2277,6 @@ Once:Jednou
 One:Jeden
 One another:Navzájem
 Onion:Cibule
-Online:Online
 Only:Pouze
 Onto:Na
 Open:Otevřeno
@@ -2345,18 +2343,17 @@ Pair:Pár
 Palace:Palác
 Pale:Bledý
 Pan:Pánev
-Panel:Panel
+Panel:Deska
 Pants:Kalhoty
 Paper:Papír
 Parallel:Paralelní
 Parent:Rodič
-Park:Park
 Parliament:Parlament
 Part:Část
 Particular:Konkrétní
 Particularly:Zejména
 Partly:Částečně
-Partner:Partner
+Partner:Společník
 Partnership:Partnerství
 Party:Oslava
 Pass:Složit
@@ -2431,7 +2428,7 @@ Pig:Prase
 Pile:Hromada
 Pile up:Nahromadit
 Pill:Pilulka
-Pilot:Pilot
+Pilot:Letec
 Pin:Špendlík
 Pink:Růžový
 Pint:Pinta
@@ -2462,7 +2459,6 @@ Plenty:Spousta
 Plot:Spiknutí
 Plug:Zástrčka
 Plug in:Zapojit
-Plus:Plus
 PM:Odpoledne
 Pocket:Kapsa
 Poem:Báseň
@@ -2572,7 +2568,6 @@ Profession:Profese
 Professional:Profesionální
 Professor:Profesor
 Profit:Zisk
-Program:Program
 Programme:Program
 Progress:Pokrok
 Project:Projekt
@@ -2593,7 +2588,7 @@ Propose:Navrhnout
 Prospect:Vyhlídka
 Protect:Chránit
 Protection:Ochrana
-Protest:Protest
+Protest:Ohradit se
 Proud:Hrdý
 Proudly:Pyšně
 Prove:Dokázat
@@ -2828,7 +2823,7 @@ River:Řeka
 Road:Silnice
 Rob:Okrást
 Rock:Skála
-Role:Role
+Role:Funkce
 Roll:Kutálet se
 Romantic:Romantický
 Roof:Střecha
@@ -2940,7 +2935,7 @@ Senator:Senátor
 Send:Poslat
 Send for:Poslat pro
 Send off:Odeslat
-Senior:Senior
+Senior:Starší
 Sense:Smysl
 Sensible:Rozumný
 Sensitive:Citlivý
@@ -3014,7 +3009,7 @@ Shot:Výstřel
 Should:Měl by
 Shoulder:Rameno
 Shout:Křičet
-Show:Show
+Show:Ukázat
 Shower:Sprcha
 Show off:Předvádět se
 Show round:Provést
@@ -3099,7 +3094,6 @@ Society:Společnost
 Sock:Ponožka
 Soft:Měkký
 Softly:Měkce
-Software:Software
 Soil:Půda
 Soldier:Voják
 Solid:Pevný
@@ -3156,7 +3150,6 @@ Split up:Rozejít se
 Spoil:Zkazit
 Spoken:Mluvený
 Spoon:Lžíce
-Sport:Sport
 Spot:Bod
 Spray:Sprej
 Spread:Rozprostřít
@@ -3170,7 +3163,7 @@ Stage:Fáze
 Stair:Schodiště
 Stamp:Razítko
 Stand:Stát
-Standard:Standard
+Standard:Kritérium
 Stand back:Odstoupit
 Stand by:Čekat
 Stand for:Znamenat
@@ -3243,8 +3236,7 @@ Strong:Silný
 Strongly:Silně
 Structure:Struktura
 Struggle:Usilovat, Bojovat
-Student:Student
-Studio:Studio
+Studio:Ateliér
 Study:Studovat
 Stuff:Věci
 Stupid:Hloupý
@@ -3280,7 +3272,6 @@ Sum up:Shrnout
 Sun:Slunce
 Sunday:Neděle
 Superior:Nadřízený
-Supermarket:Supermarket
 Supply:Zásobování
 Support:Podpora
 Supporter:Příznivce
@@ -3317,7 +3308,7 @@ Swing:Houpačka
 Switch:Přepínač
 Switch off:Vypnout
 Swollen:Oteklý
-Symbol:Symbol
+Symbol:Značka
 Sympathetic:Soucitný
 Sympathy:Sympatie
 System:Systém
@@ -3343,7 +3334,6 @@ Target:Terč, Cíl
 Task:Úkol
 Taste:Chuť
 Tax:Daň
-Taxi:Taxi
 Tea:Čaj
 Teach:Učit
 Teacher:Učitel
@@ -3494,7 +3484,7 @@ Traveller:Cestovatel
 Treat:Zacházet
 Treatment:Léčba
 Tree:Strom
-Trend:Trend
+Trend:Směr vývoje
 Trial:Soud
 Triangle:Trojúhelník
 Trick:Trik
@@ -3638,14 +3628,12 @@ Very:Velmi
 Via:Přes
 Victim:Oběť
 Victory:Vítězství
-Video:Video
 View:Pohled
 Village:Vesnice
 Violence:Násilí
 Violent:Násilný
 Violently:Násilně
 Virtually:Prakticky
-Virus:Virus
 Visible:Viditelný
 Vision:Vidění
 Visit:Navštívit
