@@ -15,6 +15,7 @@ use Digest::MD5::File qw(dir_md5_base64);
 use Digest::CRC qw(crc32);
 use Cwd;
 use Getopt::Long;
+use List::Compare;
 
 my @dir = split(/\//, getcwd);
 my $dir = pop(@dir);
@@ -136,14 +137,32 @@ my @files = (
 );
 
 for my $file (@files){
+
+	my @staresoubory = glob("$OUT/*-$file");
+	my $novysoubor = "$OUT/$cachebuster-$file";
+	my @nove = ($novysoubor);
+
 	$t->process($file ,{
 		'abeceda' => \%abeceda,
 	},
-		"$OUT/$cachebuster-$file",
+		$novysoubor,
 		{ binmode => ':utf8' }) or die $t->error;
+
+	my $lc = List::Compare->new( { lists => [\@nove, \@staresoubory] } );
+	my @smazat = $lc->get_complement;
+	unlink @smazat;
 }
 
-foreach my $file (glob("src/img/*")){
+foreach my $file (glob("$IN/img/*")){
 	my ($name,$path) = fileparse($file);
-	copy("$path$name", "$OUT/$cachebuster-$name");
+
+	my @staresoubory = glob("$OUT/*-$name");
+	my $novysoubor = "$OUT/$cachebuster-$name";
+	my @nove = ($novysoubor);
+
+	copy("$path$name", $novysoubor);
+
+	my $lc = List::Compare->new( { lists => [\@nove, \@staresoubory] } );
+	my @smazat = $lc->get_complement;
+	unlink @smazat;
 }
