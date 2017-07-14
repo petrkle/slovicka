@@ -45,7 +45,7 @@ Actually:Vlastně
 Ad:Inzerát
 Adapt:Přizpůsobit
 Add:Přidat
-Addition:Dotatek
+Addition:Dodatek
 Additional:Dodatečný
 Add on:Přidat
 Address:Adresa
@@ -775,8 +775,8 @@ Covered:Pokryté
 Covering:Krytina
 Cover up:Zakrýt
 Cow:Kráva
-Crack:Trihlina
-Cracked:Popraskané
+Crack:Trhlina
+Cracked:Popraskaný
 Craft:Řemeslo
 Crash:Pád
 Crazy:Šílený
@@ -1211,7 +1211,7 @@ Expectation:Očekávání
 Expected:Očekávaný
 Expense:Náklady
 Expensive:Drahý
-Experience:Zkusenosti
+Experience:Zkušenosti
 Experienced:Zkušený
 Experiment:Pokus
 Expert:Odborník
@@ -1450,7 +1450,7 @@ Get by:Vystačit
 Get in:Nastoupit
 Get into:Dostat se do
 Get off:Vystoupit
-Get on:Pokračova
+Get on:Pokračovat
 Get on with:Rozumět si s někým
 Get out of:Dostat se z
 Get over:Překonat
@@ -2017,7 +2017,7 @@ Manage:Spravovat
 Management:Řízení
 Manager:Manažer
 Manner:Způsob
-Manufacture:Výrobit
+Manufacture:Vyrobit
 Manufacturer:Výrobce
 Manufacturing:Výrobní
 Many:Mnoho
@@ -2034,7 +2034,7 @@ Master:Mistr
 Match:Zápas
 Matching:Vhodný
 Match up:Hodit se k
-Mate:Kamarát
+Mate:Kamarád
 Material:Materiál
 Mathematics:Matematika
 Matter:Záležitost
@@ -2225,7 +2225,7 @@ Northern:Severní
 Nose:Nos
 Not:Ne
 Note:Poznámka
-Note down:Zapsat sit
+Note down:Zapsat si
 Nothing:Nic
 Notice:Oznámení
 Noticeable:Výrazný
@@ -2423,7 +2423,7 @@ Physical:Fyzický
 Physically:Fyzicky
 Physics:Fyzika
 Piano:Klavír
-Pick:Výbrat si
+Pick:Vybrat si
 Pick up:Vyzvednout
 Picture:Obrázek
 Piece:Kus
