@@ -8,17 +8,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Ar
 .fcs:before{content:'';display:table;padding-top:100%;}
 .fi{flex-grow:1;border-bottom:1px solid #fff;border-right:1px solid #fff;background:#BBDEFB;color:#fff;display:flex;justify-content:center;align-items:center;font-size:2em;color:#000;text-decoration:none;text-transform:uppercase;}
 .fis{flex-grow:1;border-bottom:1px solid #fff;border-right:1px solid #fff;background:#BBDEFB;color:#fff;display:flex;justify-content:center;align-items:center;font-size:1em;color:#000;text-decoration:none;padding:0.5em;text-align:center;}
-.fcs:nth-child(3n+3) .fis{border-right:0;}
-.fc:nth-child(4n+4) .fi{border-right:0;}
 .fis-vybrane{flex-grow:1;border-bottom:1px solid #fff;border-right:1px solid #fff;background:#64B5F6;color:#fff;display:flex;justify-content:center;align-items:center;font-size:1em;color:#000;text-decoration:none;padding:0.5em;text-align:center;}
 h1{color:#fff;background:url("[% cachebuster %]-icon.svg") 99% 50% no-repeat #2196F3;background-size:2em 2em;margin:0;padding:0.5em;font-weight:normal;font-size:1em;}
 .nadpis{text-decoration:none;}
+.fcs:nth-child(3n+3) .fis,.fcs:nth-child(3n+3) .fis-vybrane{border-right:0;}
+.fc:nth-child(4n+4) .fi{border-right:0;}
 }
 @media screen and (min-width: 610px){
 .fc{flex:0 0 20%;display:flex;justify-content:center;align-items:stretch;padding:0;margin:0;box-sizing:border-box;flex-grow:1;}
 .fcs{flex:0 0 16%;display:flex;justify-content:center;align-items:stretch;padding:0;margin:0;box-sizing:border-box;flex-grow:1;}
 .fcs:nth-child(3n+3) .fis{border-right:1px solid #fff;}
-.fcs:nth-child(6n+6) .fis{border-right:0;}
+.fcs:nth-child(6n+6) .fis, .fcs:nth-child(6n+6) .fis-vybrane{border-right:0;}
 .fc:nth-child(4n+4) .fi{border-right:1px solid #fff;}
 .fc:nth-child(5n+5) .fi{border-right:0;}
 }
