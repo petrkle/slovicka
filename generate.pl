@@ -16,6 +16,20 @@ use Digest::CRC qw(crc32);
 use Cwd;
 use Getopt::Long;
 use List::Compare;
+use TeX::Hyphen;
+
+sub TeX::Hyphen::visualize {
+        my ($self, $word, $separator) = (shift, shift, shift);
+        my $number = 0;
+        my $pos;
+
+        for $pos ($self->hyphenate($word)) {
+                substr($word, $pos + $number, 0) = $separator;
+                $number = $number + length($separator);;
+        }
+        return $word;
+}
+
 
 my @dir = split(/\//, getcwd);
 my $dir = pop(@dir);
@@ -35,20 +49,6 @@ GetOptions (
  or die("Error in command line arguments\n");
 
 my @content = read_lines('3000.txt');
-
-use TeX::Hyphen;
-
-sub TeX::Hyphen::visualize {
-        my ($self, $word, $separator) = (shift, shift, shift);
-        my $number = 0;
-        my $pos;
-
-        for $pos ($self->hyphenate($word)) {
-                substr($word, $pos + $number, 0) = $separator;
-                $number = $number + length($separator);;
-        }
-        return $word;
-}
 
 my $hypcz = new TeX::Hyphen 'file' => 'czhyph.tex',
         'style' => 'czech', leftmin => 2,
