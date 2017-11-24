@@ -1,4 +1,3 @@
-requires 'List::Compare';
 requires 'Template';
 requires 'File::Slurper';
 requires 'File::Basename';

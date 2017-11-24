@@ -13,7 +13,12 @@ self.addEventListener("install", function(event) {
 [%- END %]
           '/[% dir %]/[% cachebuster %]-slovicka.css',
           '/[% dir %]/[% cachebuster %]-slovicka.js',
-          '/[% dir %]/[% cachebuster %]-icon.svg'
+          '/[% dir %]/[% cachebuster %]-sw.js',
+          '/[% dir %]/[% cachebuster %]-app.js',
+          '/[% dir %]/[% cachebuster %]-icon.svg',
+          '/[% dir %]/[% cachebuster %]-favicon-32x32.png',
+          '/[% dir %]/[% cachebuster %]-favicon-16x16.png',
+          '/[% dir %]/[% cachebuster %]-apple-touch-icon.png'
         ]);
       })
       .then(function() {
